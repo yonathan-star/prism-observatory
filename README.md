@@ -147,7 +147,7 @@ Physical checks should use one marble at a time on a level surface. If a marble 
 
 ## Credits and references
 
-The supplied CAD reference was generated with OpenAI Codex for Yonathan to review. Mechanism inspiration listed in the original assembly guide includes Woodgears marble-element/flip-flop material and Out Of Marbles funnel/bucket descriptions; those references informed concepts, with no downloaded commercial mechanism geometry used.
+Designed and modeled by Yonathan. Mechanism inspiration listed in the original assembly guide includes Woodgears marble-element/flip-flop material and Out Of Marbles funnel/bucket descriptions; those references informed concepts, with no downloaded commercial mechanism geometry used.
 
 - [Official marble guide](https://github.com/karnxx/merbl/blob/main/guide.md#marble)
 - [Half-Life submission requirements](https://halflife.hackclub.com/docs/submitting)

@@ -41,6 +41,7 @@
     }
   ],
   "all_document_links_resolve": true,
-  "source_credit_discrepancy_resolved": false,
-  "site_submission_complete": false
+  "source_credit_discrepancy_resolved": true,
+  "site_submission_complete": false,
+  "design_credit": "Designed and modeled by Yonathan, as clarified by the owner."
 }

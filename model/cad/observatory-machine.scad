@@ -1,4 +1,4 @@
-// THE LAST OBSERVATORY / PRISM MACHINE — original AI-assisted review CAD.
+// THE LAST OBSERVATORY / PRISM MACHINE — designed and modeled by Yonathan.
 // Official nominal 8 mm PRINTED marble. No physical function claim.
 part="assembly-A";
 cup_angle=-5;balance_position=9.7;selector_angle=225;

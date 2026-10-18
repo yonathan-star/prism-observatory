@@ -12,7 +12,7 @@ Reported active time: **5 hours**.
 
 Basically I worked on the design the first day, what I wanted from it.
 
-![Owner-assigned day 1 image: Capitol Switchback concept, 140 × 140 × 59 mm, with an 8 mm marble and 9.6 mm channel.](assets/journal/day-1/1-46144.jpg)
+![Owner-assigned day 1 image: Capitol Switchback concept, 140 × 140 × 59 mm, with an 8 mm marble and 9.6 mm channel.](assets/journal/day-1/1-46144-model-only.png)
 
 Owner-assigned day 1 image: Capitol Switchback concept, 140 × 140 × 59 mm, with an 8 mm marble and 9.6 mm channel.
 
@@ -22,15 +22,15 @@ Reported active time: **5 hours**.
 
 Second day I started 3d modeling and built the basic design.
 
-![Owner-assigned day 2 design: The Last Observatory, with two descending orbits.](assets/journal/day-2/2-46145.jpg)
+![Owner-assigned day 2 design: The Last Observatory, with two descending orbits.](assets/journal/day-2/2-46145-model-only.png)
 
 Owner-assigned day 2 design: The Last Observatory, with two descending orbits.
 
-![Owner-assigned day 2 design: channel-only inspection of the revised route.](assets/journal/day-2/3-46146.jpg)
+![Owner-assigned day 2 design: channel-only inspection of the revised route.](assets/journal/day-2/3-46146-model-only.png)
 
 Owner-assigned day 2 design: channel-only inspection of the revised route.
 
-![Owner-assigned day 2 design: the Cascade assembly and architecture.](assets/journal/day-2/4-46147.jpg)
+![Owner-assigned day 2 design: the Cascade assembly and architecture.](assets/journal/day-2/4-46147-model-only.png)
 
 Owner-assigned day 2 design: the Cascade assembly and architecture.
 
@@ -91,6 +91,10 @@ Final mechanism details
 ![Final printable parts](assets/journal/day-4/05-print-parts.png)
 
 Final printable parts
+
+## Image presentation
+
+The four uploaded design images are displayed as model-only rectangular crops. Their retained pixels are unchanged. The original labeled files and source credits are preserved alongside the crops. [Crop coordinates and verification](assets/journal/CROP-RECORD.json).
 
 ## Available final-design images
 

@@ -1,11 +1,15 @@
 {
+  "ASSEMBLY-GUIDE.txt": {
+    "bytes": 9207,
+    "sha256": "cfe3d39be454ed9a0ddfd4d2f5cb9af0cfe915b5ace0e745d8c14766a8840dee"
+  },
   "Prism-Observatory-Review.pdf": {
-    "bytes": 1769349,
-    "sha256": "f5543f62c08b8994f79b19f18a4e32a7e5ab1040763a2233056ff1c97608f3b9"
+    "bytes": 1753894,
+    "sha256": "22e56c77ce105c37db7c7ca8e2b72313e55d3893e33c516bf73ae8e1c5556368"
   },
   "START-HERE.txt": {
-    "bytes": 9515,
-    "sha256": "1150731948908c7ce6ce57a0528d14c6588b3b7411c4c71bb063250694cae2ea"
+    "bytes": 9207,
+    "sha256": "cfe3d39be454ed9a0ddfd4d2f5cb9af0cfe915b5ace0e745d8c14766a8840dee"
   },
   "cad/drop-cascade.scad": {
     "bytes": 3657,
@@ -16,8 +20,8 @@
     "sha256": "7d76d24fe7e2aedf24febd37463d4c164f5cd9c3549a8d4da279487d5af6b201"
   },
   "cad/observatory-machine.scad": {
-    "bytes": 16321,
-    "sha256": "7fe1932253a4a0f03e93d82471993ffc0b44e55223157c6ee4cc07083055f103"
+    "bytes": 16322,
+    "sha256": "1ce656d92a75e63f11e8c8bfb679de7dc446745030b1c843851f1973a63574fc"
   },
   "cad/route-data.scad": {
     "bytes": 69861,
@@ -81,43 +85,43 @@
   },
   "renders/branch-B-dump-pose.png": {
     "bytes": 176941,
-    "sha256": "999c6d01f9143b137a8d3bec7dd2e642651f64e7bac36f1f673974f831e96aba"
+    "sha256": "ccf797eb6ee60fb840c84045bd54754aac3817021e941224946dfae58df61b1b"
   },
   "renders/full-assembly-clay.png": {
     "bytes": 174584,
-    "sha256": "332fd57e9be98aec4241124b6e8a37eea264bd991e48ab796f29bb6122c9575a"
+    "sha256": "8037a349539be1b066d7dd2e1a412b4279fb0f0e09083eabfd1ed465db8d7412"
   },
   "renders/full-assembly.png": {
     "bytes": 176541,
-    "sha256": "3b7b5dd565089a8263d50e47d6817cb70f3648c3108c3317796eedbcb5721ea3"
+    "sha256": "545df3a1c4004a12b2af8a4b3827527990b28751df100ab03cf283c992bf4af9"
   },
   "renders/mechanism-details.png": {
     "bytes": 130477,
-    "sha256": "f31c60f4bbca8526de76defe62790c91477d390983604d3e83fe3ccb6630e9a2"
+    "sha256": "932bee5a5eaad3abee46f4b17953797d214078eeca0e899374bc18e04fb91e4d"
   },
   "renders/observatory-character.png": {
     "bytes": 109747,
-    "sha256": "1c8442f5225bdd8093dada0587f70301137a27233aa09762b0d32ebff5e36735"
+    "sha256": "850f888d238cba4e56cafe0d701040c9bd94e5569e37a2b89c5428259f9561d5"
   },
   "renders/print-parts.png": {
     "bytes": 201992,
-    "sha256": "863b4615bed6207f9381abce1ff7117f4f32bde6a5d449f90b0be120d1533c41"
+    "sha256": "1177e8908409c5ccaadcbdaffe8d155cae52f59ccfdc65fb68b9901f6dfe3bbb"
   },
   "renders/rear-assembly.png": {
     "bytes": 165170,
-    "sha256": "bafca2d5f0683ec4d10b712734267c6eb912107f970d9ba6f024baf0d4a013f3"
+    "sha256": "0ce0c4300060675f24260debff6fb85fa23c1c74ccd40a4bfb4ddb0e0a5fb12d"
   },
   "renders/top-plan.png": {
     "bytes": 158166,
-    "sha256": "f06282f068f1f17f85777210dbe893e03846997672130ab1febde49c6919f708"
+    "sha256": "9d10acfd97b59eb5947d5e562021663513f226efa583ceb6d73c2c5ca69233ba"
   },
   "tools/assembly_model.py": {
-    "bytes": 2656,
-    "sha256": "4fb2694667ea67904e1422609f8065943a88b58e6300a2d75601b9fe8869f3d3"
+    "bytes": 2646,
+    "sha256": "99df58db0e170fe752654fec02dbd1740883c5bff931f3c814c12d551e859e63"
   },
   "tools/audit_and_package.py": {
-    "bytes": 4051,
-    "sha256": "d21955b2ad16b33a1d423795496b1998c70f8d5702c6cf737d9580f96bb81b23"
+    "bytes": 4002,
+    "sha256": "b8f3e210cba0598a78459ab4f7b87fe86b0b2993fcfc9d3cd7595773595f308b"
   },
   "tools/check_fit_and_motion.py": {
     "bytes": 6053,
@@ -132,20 +136,20 @@
     "sha256": "4a672458084143fd4c12385b32bba72009c320346eb0b11d0e59f43a001bc1e0"
   },
   "tools/clean_chassis.py": {
-    "bytes": 4911,
-    "sha256": "85ab5d31c00245891ac9b9334e8db1596d3c91b167eaa59b5849bda93d058313"
+    "bytes": 4901,
+    "sha256": "caad41efe0db53dd194a8a4ecaf8ac983972f831fe139af09fad78a2b67cca89"
   },
   "tools/export_parts.py": {
-    "bytes": 1085,
-    "sha256": "ce3b475870a6a89d74ddfd1ffadb889fb53917d630ebaec1a50d086d197cc27d"
+    "bytes": 1113,
+    "sha256": "6b9c205752709d8ca9f5389f9dd2180087e7975ac16a941c8a03411f5f996d3d"
   },
   "tools/machine_geometry.py": {
     "bytes": 4847,
     "sha256": "884b8543bbcb3a5574205105c2e31d9956b86b5925b03f883c34107fc525ea3c"
   },
   "tools/make_review_pdf.py": {
-    "bytes": 10770,
-    "sha256": "d72e29319949ad01d5a8a2afa4f6566cdf4bf5dc3f7699dd67e681b73147b700"
+    "bytes": 10551,
+    "sha256": "98194fcd7a4cbd14f30287648a44141019ea376ade2750a511e9dcc62b527c59"
   },
   "tools/mesh_math.py": {
     "bytes": 5236,
@@ -173,7 +177,7 @@
   },
   "verification/approach-bridge-export-cleanup.json": {
     "bytes": 1356,
-    "sha256": "e357d18cdf271c19914450bbe487104f32269cf708a4aec1473442917f0179b7"
+    "sha256": "115d6780141f4ce0be87d09c49640c8a66a0caf7bafcf195d845bd35c44db4b5"
   },
   "verification/assembly-A-view-only.stl": {
     "bytes": 4137484,
@@ -181,19 +185,23 @@
   },
   "verification/assembly-sources.json": {
     "bytes": 1661,
-    "sha256": "8a928a7aa5158e3fc1ba227f3fa8f5161043494d24e048145465b7c0c42f60ad"
+    "sha256": "3ee69531fe9215d01a4decf85df9175a5988ca4824806a3c1ce4abea354d244a"
+  },
+  "verification/attribution-correction.json": {
+    "bytes": 2199,
+    "sha256": "b9fdd3d3276bfb756637bbf79ecba528d042a2bf8c7143a382faac84f333d78f"
   },
   "verification/chassis-export-cleanup.json": {
     "bytes": 1303,
-    "sha256": "e92ad0bdafdd1effd239b951868232b1ea5327d2a1a007fd93e7484c05ec9b8f"
+    "sha256": "be937a6ee9293d8eb746fc7c85c5e089ce27207736e8aa355f2def6b369428c8"
   },
   "verification/cleanup-console.txt": {
     "bytes": 1303,
-    "sha256": "e92ad0bdafdd1effd239b951868232b1ea5327d2a1a007fd93e7484c05ec9b8f"
+    "sha256": "be937a6ee9293d8eb746fc7c85c5e089ce27207736e8aa355f2def6b369428c8"
   },
   "verification/collector-ramp-export-cleanup.json": {
     "bytes": 1358,
-    "sha256": "2d8d69003cc14d67a8a3ec6db3c593c594f3c7aa4127faeba5e8a3f900f20b4d"
+    "sha256": "79ece0877a93e2d98db5ed2d09af0df53e0e51d318a035d0ff224f2c77a6524f"
   },
   "verification/details-render-console.txt": {
     "bytes": 48,
@@ -204,12 +212,12 @@
     "sha256": "c38e0724176cb27c10f15767c963e273fdb2aae364fc4fb1084a984c9ee888ba"
   },
   "verification/final-validation-summary.json": {
-    "bytes": 2616,
-    "sha256": "e8c516ec2f70c807e1877abe4e7147b9601a3a431090f729aac8b9eb84eee578"
+    "bytes": 2786,
+    "sha256": "5684ee0094ddb00602cf89e56e5d70cff26d9720eb5ffb7fa0c7d5a940fefa15"
   },
   "verification/fit-and-motion-report.json": {
     "bytes": 182679,
-    "sha256": "5fb2a5e91c35e5ac7a67e53ecb0580180d7ffea92ee0b51f5ceeaaf3a011a641"
+    "sha256": "5ac755566df50aa5d91712f32b25eac938debdec016a4efaa1c2034181796a60"
   },
   "verification/fit-console.txt": {
     "bytes": 29912,
@@ -244,16 +252,16 @@
     "sha256": "51c503c70fcc186627b827c66b1fff9ec880f91544103cc21dc89e78b46058b5"
   },
   "verification/marble-space-probes.csv": {
-    "bytes": 343322,
-    "sha256": "bae4f6fb24955c1bea5faa8d92a5c3911ca3d2e2b4c2d85a62822f9c2934de03"
+    "bytes": 340977,
+    "sha256": "865c24d66158e24e956f530e1da228edc161d09e1a6a82146685f3cc00540e5f"
   },
   "verification/marble-space-report.json": {
     "bytes": 9891,
-    "sha256": "25d342f180fc227787163d6e19b06a3b65462b417e32bb7430e2be61f47f47ae"
+    "sha256": "0814f1acb613479d91867554c497e8111e6e7c66c93f4676ef7f762cb4af33e8"
   },
   "verification/mechanical-estimates.json": {
     "bytes": 34209,
-    "sha256": "8d5ce23644d44a49d6c01bad609068ab2f288632fad2b5c1da5d1cc9e9b7d16e"
+    "sha256": "01b5a2032f0b236276c3b648075508537c95271ef8116a2bbfb74f6b1971f5da"
   },
   "verification/openscad-approach-bridge.log": {
     "bytes": 349,
@@ -333,11 +341,11 @@
   },
   "verification/seating-console.txt": {
     "bytes": 3938,
-    "sha256": "126da1a17084bf85caed392cacee6911988bd4793b8690b34e0583b6d1d5f02e"
+    "sha256": "d30f62cbf2e45e7c01644ee402e0c60236159dec261a42a9ab04b7f940253833"
   },
   "verification/seating-report.json": {
     "bytes": 3938,
-    "sha256": "126da1a17084bf85caed392cacee6911988bd4793b8690b34e0583b6d1d5f02e"
+    "sha256": "d30f62cbf2e45e7c01644ee402e0c60236159dec261a42a9ab04b7f940253833"
   },
   "verification/topology-console.txt": {
     "bytes": 3756,
@@ -345,6 +353,6 @@
   },
   "verification/topology-report.json": {
     "bytes": 14098,
-    "sha256": "f6e6d65d34b344eb919b6705d17a551144d12d65717658c0cb991ca03e2287f3"
+    "sha256": "2ef307f822389bafa5b9152cf7846a334e97bc8b0eab0b267f68dd241605541f"
   }
 }

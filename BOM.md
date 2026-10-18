@@ -7,7 +7,9 @@ Price checked October 18, 2026 on the official US vendor site and in its cart. U
 | Overture High Speed PLA, White, 1.75 mm, 1 kg spool | 1 | $16.99 | $16.99 | Overture 3D | [Exact selected variant](https://overture3d.com/products/overture-pla?variant=42105033359614) |
 | **Material subtotal** | | | **$16.99** | | |
 
-Shipping and tax are calculated at checkout and are not included above. Their final amount has not been established; blank/pending does not mean free. The vendor cart showed one white 1 kg spool and a $16.99 merchandise total before shipping/tax. No checkout or purchase was completed.
+For a contiguous-US delivery, the vendor publishes a $5.99 flat shipping rate on orders below $29.99. That gives a **$22.98 pre-tax budget** ($16.99 materials + $5.99 shipping). Sales tax remains pending the actual delivery address and checkout. This shipping allowance is based on the published policy, not an address-specific checkout quote. The cart showed one white 1 kg spool and a $16.99 merchandise total before shipping/tax. No purchase was completed.
+
+[Official US shipping policy](https://overture3d.com/pages/shipping-policy-us), checked October 18, 2026. This vendor ships only to the contiguous US; if the delivery destination differs, choose another vendor and reprice the BOM.
 
 ## What the filament covers
 

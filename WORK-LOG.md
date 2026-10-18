@@ -12,6 +12,6 @@ Timing basis: retrospective estimates supplied by Yonathan on October 18, 2026. 
 
 This replaces the previous 5h35 example as the user's reported total. No multiplication of the example durations was used. The user's statements were: “Monday Tuesday Wednesday Thursday. 5 hours per day.”
 
-The project owner has now supplied the session sequence: Monday design planning, Tuesday initial 3D modeling, Wednesday a more complicated revision after disliking the first version, and Thursday finalization. Their wording is transcribed in [JOURNAL-NOTES.md](JOURNAL-NOTES.md). Session-specific images and additional details are still pending; no tests or exact clock times have been inferred.
+The project owner has now supplied the session sequence: Monday design planning, Tuesday initial 3D modeling, Wednesday a more complicated revision after disliking the first version, and Thursday finalization and preparation of the full submission materials. Their wording is transcribed in [JOURNAL-NOTES.md](JOURNAL-NOTES.md). Session-specific images and additional details are still pending; no tests or exact clock times have been inferred.
 
 These hours have not been entered on HalfLife. At the last site check, journaling was locked until the idea reel is posted.

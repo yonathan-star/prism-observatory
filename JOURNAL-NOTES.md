@@ -36,6 +36,8 @@ Reported active time: **5 hours**.
 
 fourth day I finalized the design
 
+And finished the stuff needed for the full submission.
+
 Session images: pending.
 
 ## Available final-design images

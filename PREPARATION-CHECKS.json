@@ -1,0 +1,46 @@
+{
+  "project_url": "https://halflife.hackclub.com/projects/cmvdz78iw02ey01rc37spe1z9",
+  "repository_url": "https://github.com/yonathan-star/prism-observatory",
+  "checkout_quote_usd": 22.98,
+  "material_subtotal_usd": 16.99,
+  "shipping_usd": 5.99,
+  "tax_line_displayed": false,
+  "order_placed": false,
+  "sessions": [
+    {
+      "day": "01-monday",
+      "reported_hours": 5,
+      "linked_images": 5,
+      "copyedited_note_characters": 49,
+      "owner_writing_minimum_met": false,
+      "posted_to_site": false
+    },
+    {
+      "day": "02-tuesday",
+      "reported_hours": 5,
+      "linked_images": 5,
+      "copyedited_note_characters": 49,
+      "owner_writing_minimum_met": false,
+      "posted_to_site": false
+    },
+    {
+      "day": "03-wednesday",
+      "reported_hours": 5,
+      "linked_images": 5,
+      "copyedited_note_characters": 116,
+      "owner_writing_minimum_met": false,
+      "posted_to_site": false
+    },
+    {
+      "day": "04-thursday",
+      "reported_hours": 5,
+      "linked_images": 5,
+      "copyedited_note_characters": 91,
+      "owner_writing_minimum_met": false,
+      "posted_to_site": false
+    }
+  ],
+  "all_document_links_resolve": true,
+  "source_credit_discrepancy_resolved": false,
+  "site_submission_complete": false
+}

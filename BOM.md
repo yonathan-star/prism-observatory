@@ -7,7 +7,7 @@ Price checked October 18, 2026 on the official US vendor site and in its cart. U
 | Overture High Speed PLA, White, 1.75 mm, 1 kg spool | 1 | $16.99 | $16.99 | Overture 3D | [Exact selected variant](https://overture3d.com/products/overture-pla?variant=42105033359614) |
 | **Material subtotal** | | | **$16.99** | | |
 
-For a contiguous-US delivery, the vendor publishes a $5.99 flat shipping rate on orders below $29.99. That gives a **$22.98 pre-tax budget** ($16.99 materials + $5.99 shipping). Sales tax remains pending the actual delivery address and checkout. This shipping allowance is based on the published policy, not an address-specific checkout quote. The cart showed one white 1 kg spool and a $16.99 merchandise total before shipping/tax. No purchase was completed.
+For a contiguous-US delivery, the vendor publishes a $5.99 flat shipping rate on orders below $29.99. That gives a **$22.98 pre-tax budget** ($16.99 materials + $5.99 shipping). The subsequent checkout confirmation is recorded below. This shipping allowance is based on the published policy, not an address-specific checkout quote. The cart showed one white 1 kg spool and a $16.99 merchandise total before shipping/tax. No purchase was completed.
 
 [Official US shipping policy](https://overture3d.com/pages/shipping-policy-us), checked October 18, 2026. This vendor ships only to the contiguous US; if the delivery destination differs, choose another vendor and reprice the BOM.
 
@@ -26,3 +26,11 @@ One white spool is a functional single-color baseline. The renders illustrate po
 ## Source
 
 [Official Overture product page](https://overture3d.com/products/overture-pla?variant=42105033359614). Cart and product price observed October 18, 2026: White / 1.75mm / 1 kg, quantity 1, $16.99. Recheck price and stock before ordering.
+
+## Checkout confirmation — October 18, 2026
+
+The live saved checkout session quoted **$22.98 total**: $16.99 for one white 1 kg spool plus $5.99 standard shipping. No separate sales-tax line was displayed. This confirms the total shown for that session, without assuming that tax is universally zero or that another delivery address will have the same quote. No order was placed.
+
+![Actual vendor checkout order summary, showing one spool, $16.99 subtotal, $5.99 shipping and $22.98 total](assets/procurement/checkout-order-summary-2026-10-18.jpg)
+
+The screenshot contains the order-summary area only; address and payment details are excluded.

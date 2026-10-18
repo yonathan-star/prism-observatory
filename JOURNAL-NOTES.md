@@ -4,7 +4,7 @@ Project owner’s own account, supplied October 18, 2026. Session descriptions b
 
 **Reported total: 20 active hours.**
 
-The images are organized according to the owner’s day assignments. Wednesday and Thursday use final-model references added retrospectively. Each site entry still needs at least 200 characters of the owner’s writing. For a five-hour written entry without timelapse-backed time, the current docs call for five images; Monday currently has one and Tuesday has three. Additional views of the final model do not establish the earlier session dates or hours.
+The images are organized according to the owner’s day assignments. Wednesday and Thursday use final-model references added retrospectively. Each site entry still needs at least 200 characters of the owner’s writing. Each day now has five linked images. Six added views were rendered on October 18 from the matching saved early-design STL files. These are marked retrospective reference views and retain source-mesh hashes. Additional views of the final model do not establish the earlier session dates or hours.
 
 ## Monday, 2026-10-12 — Design planning
 
@@ -15,6 +15,24 @@ Basically I worked on the design the first day, what I wanted from it.
 ![Owner-assigned day 1 image: Capitol Switchback concept, 140 × 140 × 59 mm, with an 8 mm marble and 9.6 mm channel.](assets/journal/day-1/1-46144-model-only.png)
 
 Owner-assigned day 1 image: Capitol Switchback concept, 140 × 140 × 59 mm, with an 8 mm marble and 9.6 mm channel.
+
+**Additional retrospective views of the saved design:** rendered on October 18 from the actual saved STL geometry.
+
+![Top plan of the saved Capitol Switchback design](assets/journal/day-1/02-course-top-plan.png)
+
+Top plan of the saved Capitol Switchback design
+
+![Front elevation of the saved Capitol Switchback design](assets/journal/day-1/03-course-front-elevation.png)
+
+Front elevation of the saved Capitol Switchback design
+
+![Rear view of the saved Capitol Switchback design](assets/journal/day-1/04-course-rear-view.png)
+
+Rear view of the saved Capitol Switchback design
+
+![Detail view of the saved course bend and supports](assets/journal/day-1/05-course-guarded-bend-detail.png)
+
+Detail view of the saved course bend and supports
 
 ## Tuesday, 2026-10-13 — Initial 3D model
 
@@ -33,6 +51,16 @@ Owner-assigned day 2 design: channel-only inspection of the revised route.
 ![Owner-assigned day 2 design: the Cascade assembly and architecture.](assets/journal/day-2/4-46147-model-only.png)
 
 Owner-assigned day 2 design: the Cascade assembly and architecture.
+
+**Additional retrospective views of the saved design:** rendered on October 18 from the actual saved STL geometry.
+
+![Top plan of the saved orbital Observatory design](assets/journal/day-2/05-orbital-top-plan.png)
+
+Top plan of the saved orbital Observatory design
+
+![Rear view of the saved Cascade design](assets/journal/day-2/06-cascade-rear-view.png)
+
+Rear view of the saved Cascade design
 
 ## Wednesday, 2026-10-14 — Revising the design
 
@@ -91,6 +119,8 @@ Final mechanism details
 ![Final printable parts](assets/journal/day-4/05-print-parts.png)
 
 Final printable parts
+
+Additional-view source records: [mesh paths, hashes and capture timing](assets/journal/ADDITIONAL-VIEW-SOURCES.json). Saved early design files and their original documentation are in [design-history/](design-history/).
 
 ## Image presentation
 

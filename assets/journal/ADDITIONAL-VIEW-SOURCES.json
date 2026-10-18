@@ -1,0 +1,62 @@
+[
+  {
+    "day": "day-1",
+    "file": "assets/journal/day-1/02-course-top-plan.png",
+    "label": "Top plan of the saved Capitol Switchback design",
+    "source_mesh": "design-history/01-capitol-switchback/exports/capitol-switchback-course.stl",
+    "source_mesh_sha256": "cb763020e55e78b8d1e96de0218ef6311bae52d80ed29ca27e734a14c85728cb",
+    "origin": "Actual saved STL geometry rendered on October 18, 2026; retrospective reference view, not a contemporaneous session capture",
+    "image_generation_used": false,
+    "source_geometry_modified": false
+  },
+  {
+    "day": "day-1",
+    "file": "assets/journal/day-1/03-course-front-elevation.png",
+    "label": "Front elevation of the saved Capitol Switchback design",
+    "source_mesh": "design-history/01-capitol-switchback/exports/capitol-switchback-course.stl",
+    "source_mesh_sha256": "cb763020e55e78b8d1e96de0218ef6311bae52d80ed29ca27e734a14c85728cb",
+    "origin": "Actual saved STL geometry rendered on October 18, 2026; retrospective reference view, not a contemporaneous session capture",
+    "image_generation_used": false,
+    "source_geometry_modified": false
+  },
+  {
+    "day": "day-1",
+    "file": "assets/journal/day-1/04-course-rear-view.png",
+    "label": "Rear view of the saved Capitol Switchback design",
+    "source_mesh": "design-history/01-capitol-switchback/exports/capitol-switchback-course.stl",
+    "source_mesh_sha256": "cb763020e55e78b8d1e96de0218ef6311bae52d80ed29ca27e734a14c85728cb",
+    "origin": "Actual saved STL geometry rendered on October 18, 2026; retrospective reference view, not a contemporaneous session capture",
+    "image_generation_used": false,
+    "source_geometry_modified": false
+  },
+  {
+    "day": "day-1",
+    "file": "assets/journal/day-1/05-course-guarded-bend-detail.png",
+    "label": "Detail view of the saved course bend and supports",
+    "source_mesh": "design-history/01-capitol-switchback/exports/capitol-switchback-course.stl",
+    "source_mesh_sha256": "cb763020e55e78b8d1e96de0218ef6311bae52d80ed29ca27e734a14c85728cb",
+    "origin": "Actual saved STL geometry rendered on October 18, 2026; retrospective reference view, not a contemporaneous session capture",
+    "image_generation_used": false,
+    "source_geometry_modified": false
+  },
+  {
+    "day": "day-2",
+    "file": "assets/journal/day-2/05-orbital-top-plan.png",
+    "label": "Top plan of the saved orbital Observatory design",
+    "source_mesh": "design-history/02-observatory-orbits/exports/the-last-observatory.stl",
+    "source_mesh_sha256": "905b604f7493bc4e4dafa02f69bd0869cd4f0de73960b26a1c19f1505a67782b",
+    "origin": "Actual saved STL geometry rendered on October 18, 2026; retrospective reference view, not a contemporaneous session capture",
+    "image_generation_used": false,
+    "source_geometry_modified": false
+  },
+  {
+    "day": "day-2",
+    "file": "assets/journal/day-2/06-cascade-rear-view.png",
+    "label": "Rear view of the saved Cascade design",
+    "source_mesh": "design-history/03-observatory-cascade/exports/the-last-observatory.stl",
+    "source_mesh_sha256": "360e1ee85db004fcfcf02c1c7d780d4e56f651ed61d8fddedae988ad2c4c17ae",
+    "origin": "Actual saved STL geometry rendered on October 18, 2026; retrospective reference view, not a contemporaneous session capture",
+    "image_generation_used": false,
+    "source_geometry_modified": false
+  }
+]

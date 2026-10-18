@@ -162,3 +162,5 @@ See [BOM.md](BOM.md) for the vendor-priced baseline and the limits of that quote
 ## Work-hour record
 
 [Reported work hours](WORK-LOG.md) records the project owner’s retrospective estimates: five hours on each of October 12–15, 2026, totaling 20 hours. It is a timing record, not a completed personal journal.
+
+The owner’s four-day account is transcribed in [JOURNAL-NOTES.md](JOURNAL-NOTES.md); it still needs the detail and images required for the site entries.

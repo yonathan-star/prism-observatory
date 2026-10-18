@@ -1,0 +1,357 @@
+{
+  "nominal_marble_diameter_mm": 8,
+  "sphere_contact_target_mm": 4.04,
+  "samples": 2344,
+  "passed": true,
+  "groups": {
+    "selector-A-to-feed": {
+      "samples": 42,
+      "minimum_clearance_mm": 0.04000011253558977,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "selector-B-to-feed": {
+      "samples": 42,
+      "minimum_clearance_mm": 0.04000011253558977,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "funnel_feed": {
+      "samples": 123,
+      "minimum_clearance_mm": 0.040000007208267796,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "tipper_feed": {
+      "samples": 318,
+      "minimum_clearance_mm": 0.016281935060405317,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "funnel_return": {
+      "samples": 213,
+      "minimum_clearance_mm": 0.04000000027443029,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "tipper_return": {
+      "samples": 138,
+      "minimum_clearance_mm": 0.04000000087197009,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "shared_cascade_feed": {
+      "samples": 453,
+      "minimum_clearance_mm": 0.04000000337942389,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "collector_feed": {
+      "samples": 183,
+      "minimum_clearance_mm": 0.040000006097677954,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "funnel-spiral-envelope": {
+      "samples": 135,
+      "minimum_clearance_mm": 0.04000000863157904,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "funnel-throat-entry": {
+      "samples": 10,
+      "minimum_clearance_mm": 1.7902596957741128,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "funnel-throat-drop": {
+      "samples": 62,
+      "minimum_clearance_mm": 0.10322116116454083,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "funnel-receiver-to-return": {
+      "samples": 22,
+      "minimum_clearance_mm": 0.0400000156307696,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "hopper-to-cup": {
+      "samples": 25,
+      "minimum_clearance_mm": 0.02320809762417486,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cup-loaded-poses": {
+      "samples": 43,
+      "minimum_clearance_mm": 0.005916607784066663,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cup-release-to-deep-receiver": {
+      "samples": 46,
+      "minimum_clearance_mm": 0.2068466132253235,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "tipper-receiver-to-return": {
+      "samples": 24,
+      "minimum_clearance_mm": 0.040000005945803,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "common-feed-to-cascade": {
+      "samples": 13,
+      "minimum_clearance_mm": 0.04000002507841138,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-tray-1": {
+      "samples": 81,
+      "minimum_clearance_mm": 0.040000006325716875,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-edge-1": {
+      "samples": 24,
+      "minimum_clearance_mm": 0.07761154002073045,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-drop-1": {
+      "samples": 40,
+      "minimum_clearance_mm": 0.0799999999999983,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-catch-exit-1": {
+      "samples": 21,
+      "minimum_clearance_mm": 0.08000012008655766,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-tray-2": {
+      "samples": 81,
+      "minimum_clearance_mm": 0.040000486373898525,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-edge-2": {
+      "samples": 24,
+      "minimum_clearance_mm": 0.07761154270120585,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-drop-2": {
+      "samples": 40,
+      "minimum_clearance_mm": 0.0799999999999983,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-catch-exit-2": {
+      "samples": 21,
+      "minimum_clearance_mm": 0.08000096895586051,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-tray-3": {
+      "samples": 81,
+      "minimum_clearance_mm": 0.040000486373898525,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "cascade-to-final-feed": {
+      "samples": 13,
+      "minimum_clearance_mm": 0.04000013984369488,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    },
+    "final-feed-to-collector": {
+      "samples": 26,
+      "minimum_clearance_mm": 0.04000029563903951,
+      "inside_centers": 0,
+      "obstructions": [],
+      "passed": true
+    }
+  },
+  "open_edge_or_hole_probes": [
+    {
+      "group": "tipper_feed",
+      "xy": [
+        117.55388259897597,
+        87.74987174137982
+      ],
+      "nominal_floor": 124.10334168259934
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        117.02035517851283,
+        87.68436281132858
+      ],
+      "nominal_floor": 124.07013303180709
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        117.08307225647343,
+        87.08764967410762
+      ],
+      "nominal_floor": 124.07013303180709
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        116.4848665398505,
+        87.63751362599871
+      ],
+      "nominal_floor": 124.03684168417216
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        116.52672042409698,
+        87.03897519584281
+      ],
+      "nominal_floor": 124.03684168417216
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        116.56857430834346,
+        86.44043676568691
+      ],
+      "nominal_floor": 124.03684168417216
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        115.94806909340947,
+        87.60938126390592
+      ],
+      "nominal_floor": 124.00346491510098
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        115.96900879143098,
+        87.00974676769447
+      ],
+      "nominal_floor": 124.00346491510098
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        115.98994848945249,
+        86.41011227148302
+      ],
+      "nominal_floor": 124.00346491510098
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        115.41061684419097,
+        87.6
+      ],
+      "nominal_floor": 123.97
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        115.41061684419097,
+        87.0
+      ],
+      "nominal_floor": 123.97
+    },
+    {
+      "group": "tipper_feed",
+      "xy": [
+        115.41061684419097,
+        86.4
+      ],
+      "nominal_floor": 123.97
+    },
+    {
+      "group": "funnel-spiral-envelope",
+      "xy": [
+        37.897215270328644,
+        105.87703865905665
+      ],
+      "nominal_floor": 116.0
+    },
+    {
+      "group": "funnel-spiral-envelope",
+      "xy": [
+        37.74497215977958,
+        105.70491205446999
+      ],
+      "nominal_floor": 116.0
+    },
+    {
+      "group": "funnel-spiral-envelope",
+      "xy": [
+        37.623859381934565,
+        105.52212397906348
+      ],
+      "nominal_floor": 116.0
+    },
+    {
+      "group": "funnel-spiral-envelope",
+      "xy": [
+        37.534409682480394,
+        105.33296701488872
+      ],
+      "nominal_floor": 116.0
+    },
+    {
+      "group": "funnel-spiral-envelope",
+      "xy": [
+        37.47662834374154,
+        105.14172813105472
+      ],
+      "nominal_floor": 116.0
+    },
+    {
+      "group": "funnel-spiral-envelope",
+      "xy": [
+        37.45,
+        104.95262794416288
+      ],
+      "nominal_floor": 116.0
+    }
+  ],
+  "limits": [
+    "Constructed static sphere envelopes through every listed interface, not a complete dynamics or retention test.",
+    "A nominal 8 mm sphere and 0.04 mm geometric contact offset are analysis choices, not a print tolerance guarantee.",
+    "Funnel spiral, vertical falls and cup-release paths are clearance constructions, not predicted trajectories.",
+    "Surface distance and ray parity checked against the actual assembled STL triangles; routes also tested at lateral offsets +/-0.6 mm.",
+    "Cup triggering, empty reset, rolling speed, bounce, friction, print fit and marble roundness require physical testing."
+  ]
+}

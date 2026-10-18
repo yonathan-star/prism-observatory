@@ -1,0 +1,322 @@
+{
+  "chassis": {
+    "file": "exports/chassis.stl",
+    "sha256": "10f9c5b77526e44e29826f4a7ecb54e0dcfbfb2f080ed49e7d4430644f66d591",
+    "triangles": 62086,
+    "vertices": 30868,
+    "edges": 93129,
+    "bounds_mm": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        144.0,
+        144.0,
+        149.8000030517578
+      ]
+    ],
+    "dimensions_mm": [
+      144.0,
+      144.0,
+      149.8000030517578
+    ],
+    "signed_volume_mm3": 376215.3453130969,
+    "surface_area_mm2": 170428.66798027954,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 78,
+    "connected_components": 3,
+    "passed": false
+  },
+  "funnel": {
+    "file": "exports/funnel.stl",
+    "sha256": "f714d0a77743d649e781e6e7d4126e85529cb4910076c2fae6089b4fd559203e",
+    "triangles": 4950,
+    "vertices": 2463,
+    "edges": 7404,
+    "bounds_mm": [
+      [
+        -30.5,
+        -30.5,
+        0.0
+      ],
+      [
+        30.5,
+        28.880022048950195,
+        131.0
+      ]
+    ],
+    "dimensions_mm": [
+      61.0,
+      59.380022048950195,
+      131.0
+    ],
+    "signed_volume_mm3": 20412.243090481865,
+    "surface_area_mm2": 18248.940269674626,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 20,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 2,
+    "connected_components": 10,
+    "passed": false
+  },
+  "cascade": {
+    "file": "exports/cascade.stl",
+    "sha256": "765f38a637b28e4102c0c50b2350d41497f34857fdca31cc9ded236bbc72bf1d",
+    "triangles": 2400,
+    "vertices": 1134,
+    "edges": 3600,
+    "bounds_mm": [
+      [
+        -43.20000076293945,
+        -16.200000762939453,
+        0.0
+      ],
+      [
+        43.20000076293945,
+        16.200000762939453,
+        80.0
+      ]
+    ],
+    "dimensions_mm": [
+      86.4000015258789,
+      32.400001525878906,
+      80.0
+    ],
+    "signed_volume_mm3": 35892.505335404414,
+    "surface_area_mm2": 32099.132750198765,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  },
+  "cup": {
+    "file": "exports/cup.stl",
+    "sha256": "81e6d1e54d3c7ab1383c84f59b8cc0be4e5a951f861e680055e7738db675a092",
+    "triangles": 1450,
+    "vertices": 725,
+    "edges": 2175,
+    "bounds_mm": [
+      [
+        -7.889805793762207,
+        -24.089805603027344,
+        1.9073486612342094e-07
+      ],
+      [
+        7.889805793762207,
+        16.0,
+        6.000000953674316
+      ]
+    ],
+    "dimensions_mm": [
+      15.779611587524414,
+      40.089805603027344,
+      6.00000076293945
+    ],
+    "signed_volume_mm3": 358.25453991166705,
+    "surface_area_mm2": 868.8761315511558,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  },
+  "ballast": {
+    "file": "exports/ballast.stl",
+    "sha256": "b1810f9719cb71a2d3a1c50648d40ad2c3d234ebf7b23dac8474f9a70d493ef4",
+    "triangles": 44,
+    "vertices": 24,
+    "edges": 66,
+    "bounds_mm": [
+      [
+        -4.0,
+        -4.0,
+        7.629394644936838e-07
+      ],
+      [
+        4.0,
+        4.0,
+        12.0
+      ]
+    ],
+    "dimensions_mm": [
+      8.0,
+      8.0,
+      11.999999237060536
+    ],
+    "signed_volume_mm3": 631.2159953861321,
+    "surface_area_mm2": 491.64000032901845,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  },
+  "selector": {
+    "file": "exports/selector.stl",
+    "sha256": "090f0ecfbd3127b8b0b2321c66f671ab4d72b82a477949001db983dbe2fca71d",
+    "triangles": 324,
+    "vertices": 166,
+    "edges": 486,
+    "bounds_mm": [
+      [
+        -7.59999942779541,
+        -16.0,
+        3.814697322468419e-07
+      ],
+      [
+        7.59999942779541,
+        12.0,
+        18.399999618530273
+      ]
+    ],
+    "dimensions_mm": [
+      15.19999885559082,
+      28.0,
+      18.39999923706054
+    ],
+    "signed_volume_mm3": 2252.859587789846,
+    "surface_area_mm2": 2370.6440462168266,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 2,
+    "passed": false
+  },
+  "axle": {
+    "file": "exports/axle.stl",
+    "sha256": "a00b041639289a9b915d4574bbebda5274ee2678151b41b33dec7297ad649290",
+    "triangles": 156,
+    "vertices": 80,
+    "edges": 234,
+    "bounds_mm": [
+      [
+        -0.875,
+        -0.875,
+        0.0
+      ],
+      [
+        0.875,
+        0.875,
+        18.799999237060547
+      ]
+    ],
+    "dimensions_mm": [
+      1.75,
+      1.75,
+      18.799999237060547
+    ],
+    "signed_volume_mm3": 45.03357038497003,
+    "surface_area_mm2": 108.04297201749522,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  },
+  "retainer": {
+    "file": "exports/retainer.stl",
+    "sha256": "468bed364a1cf11f062b0a57881908880558acbd5640243927cd604d9a042ff0",
+    "triangles": 268,
+    "vertices": 136,
+    "edges": 402,
+    "bounds_mm": [
+      [
+        -2.09999942779541,
+        -2.09999942779541,
+        0.0
+      ],
+      [
+        2.0569825172424316,
+        2.09999942779541,
+        2.3999996185302734
+      ]
+    ],
+    "dimensions_mm": [
+      4.156981945037842,
+      4.19999885559082,
+      2.3999996185302734
+    ],
+    "signed_volume_mm3": 25.265769663926054,
+    "surface_area_mm2": 67.84146833809818,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  },
+  "coupon": {
+    "file": "exports/coupon.stl",
+    "sha256": "5e982ae3c520bf3a4bb731ef2f6e1c1b78a52b23bb3aa6723d650231b06803e9",
+    "triangles": 1652,
+    "vertices": 808,
+    "edges": 2478,
+    "bounds_mm": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        90.0,
+        30.0,
+        4.0
+      ]
+    ],
+    "dimensions_mm": [
+      90.0,
+      30.0,
+      4.0
+    ],
+    "signed_volume_mm3": 10311.190663613454,
+    "surface_area_mm2": 6530.758960153023,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  },
+  "marble": {
+    "file": "exports/marble.stl",
+    "sha256": "11aac731b9a39ce7ea807f2453c7a690fb8ac7a32a010968cbf5bf7e95d8a04f",
+    "triangles": 9212,
+    "vertices": 4608,
+    "edges": 13818,
+    "bounds_mm": [
+      [
+        -3.9978582859039307,
+        -3.9978582859039307,
+        0.002141650067642331
+      ],
+      [
+        3.9978582859039307,
+        3.9978582859039307,
+        7.99785852432251
+      ]
+    ],
+    "dimensions_mm": [
+      7.995716571807861,
+      7.995716571807861,
+      7.995716874254867
+    ],
+    "signed_volume_mm3": 267.60446865617683,
+    "surface_area_mm2": 200.88257516207688,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  }
+}

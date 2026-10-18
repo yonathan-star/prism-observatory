@@ -1,0 +1,538 @@
+{
+  "passed": true,
+  "parts": {
+    "chassis": {
+      "file": "exports/chassis.stl",
+      "sha256": "782c0e3d46d60abf38d63d602eb8cbfcc1008531428096f3899178db305e10c8",
+      "triangles": 63376,
+      "vertices": 31465,
+      "edges": 95064,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          144.0,
+          144.0,
+          149.8000030517578
+        ]
+      ],
+      "dimensions_mm": [
+        144.0,
+        144.0,
+        149.8000030517578
+      ],
+      "signed_volume_mm3": 355491.69234707224,
+      "surface_area_mm2": 161016.43875251772,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 440.8096985103696,
+      "centroid_in_print_coordinates_mm": [
+        80.51068845005075,
+        86.64142510427233,
+        45.46023110958014
+      ]
+    },
+    "funnel": {
+      "file": "exports/funnel.stl",
+      "sha256": "870f6613ae2b46d1e27d1fb94d84ce62fc0d7393eec47e9d339027157cd0e0d1",
+      "triangles": 4852,
+      "vertices": 2414,
+      "edges": 7278,
+      "bounds_mm": [
+        [
+          -30.649999618530273,
+          -30.649999618530273,
+          0.0
+        ],
+        [
+          30.649999618530273,
+          28.920766830444336,
+          131.0
+        ]
+      ],
+      "dimensions_mm": [
+        61.29999923706055,
+        59.57076644897461,
+        131.0
+      ],
+      "signed_volume_mm3": 19736.765568814106,
+      "surface_area_mm2": 18324.325617618837,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 24.473589305329497,
+      "centroid_in_print_coordinates_mm": [
+        -1.154464905423804,
+        -3.6281764206337397,
+        91.74549768288419
+      ]
+    },
+    "cascade": {
+      "file": "exports/cascade.stl",
+      "sha256": "c63a2975a14af51350b6de57a0e46d80d62f928196fada96a9be084652a889d7",
+      "triangles": 2412,
+      "vertices": 1140,
+      "edges": 3618,
+      "bounds_mm": [
+        [
+          -43.20000076293945,
+          -16.200000762939453,
+          0.0
+        ],
+        [
+          43.20000076293945,
+          16.200000762939453,
+          80.0
+        ]
+      ],
+      "dimensions_mm": [
+        86.4000015258789,
+        32.400001525878906,
+        80.0
+      ],
+      "signed_volume_mm3": 34619.00226906373,
+      "surface_area_mm2": 31337.825646610898,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 42.92756281363902,
+      "centroid_in_print_coordinates_mm": [
+        -1.3552601944416218,
+        1.6119910441054763,
+        34.30688097083656
+      ]
+    },
+    "cup": {
+      "file": "exports/cup.stl",
+      "sha256": "76cdf1bb0ece9cec710548494d451bc576f156b6dc0bb1d0dbbc79519eeb82a6",
+      "triangles": 1450,
+      "vertices": 725,
+      "edges": 2175,
+      "bounds_mm": [
+        [
+          -7.889805793762207,
+          -24.089805603027344,
+          1.9073486612342094e-07
+        ],
+        [
+          7.889805793762207,
+          16.0,
+          6.000000953674316
+        ]
+      ],
+      "dimensions_mm": [
+        15.779611587524414,
+        40.089805603027344,
+        6.00000076293945
+      ],
+      "signed_volume_mm3": 358.25453991166705,
+      "surface_area_mm2": 868.8761315511558,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 0.44423562949046713,
+      "centroid_in_print_coordinates_mm": [
+        4.7775142726667514e-11,
+        -9.903576675724334,
+        3.0168046618601894
+      ]
+    },
+    "ballast": {
+      "file": "exports/ballast.stl",
+      "sha256": "a6310aca34057148aab01b06b451ce3a77459c37cd9544dfba25ddb215e050f7",
+      "triangles": 44,
+      "vertices": 24,
+      "edges": 66,
+      "bounds_mm": [
+        [
+          -7.0,
+          -5.0,
+          7.629394644936838e-07
+        ],
+        [
+          7.0,
+          5.0,
+          6.899999618530273
+        ]
+      ],
+      "dimensions_mm": [
+        14.0,
+        10.0,
+        6.899998855590809
+      ],
+      "signed_volume_mm3": 639.2159601001824,
+      "surface_area_mm2": 550.8399858331688,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 0.792627790524226,
+      "centroid_in_print_coordinates_mm": [
+        2.2231695705743614e-17,
+        0.0,
+        4.560032102744249
+      ]
+    },
+    "ballast-light": {
+      "file": "exports/ballast-light.stl",
+      "sha256": "84826e0ca938bf4a7bd6d95c209fe122a1ee6699bf36960da65842138c3f3f70",
+      "triangles": 60,
+      "vertices": 32,
+      "edges": 90,
+      "bounds_mm": [
+        [
+          -7.0,
+          -5.0,
+          7.629394644936838e-07
+        ],
+        [
+          7.0,
+          5.0,
+          6.899999618530273
+        ]
+      ],
+      "dimensions_mm": [
+        14.0,
+        10.0,
+        6.899998855590809
+      ],
+      "signed_volume_mm3": 477.21594722557916,
+      "surface_area_mm2": 640.8399929857261,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 0.591747774559718,
+      "centroid_in_print_coordinates_mm": [
+        2.9778666865222254e-17,
+        0.0,
+        4.2748892238216465
+      ]
+    },
+    "balance-endclip": {
+      "file": "exports/balance-endclip.stl",
+      "sha256": "63f242ed78a4deaa9ad225df64f7789e93de189b7fb41328adb81fd78be1f0c2",
+      "triangles": 28,
+      "vertices": 16,
+      "edges": 42,
+      "bounds_mm": [
+        [
+          -3.1999998092651367,
+          0.0,
+          3.814697322468419e-07
+        ],
+        [
+          3.1999998092651367,
+          3.1999998092651367,
+          3.1999993324279785
+        ]
+      ],
+      "dimensions_mm": [
+        6.399999618530273,
+        3.1999998092651367,
+        3.1999989509582463
+      ],
+      "signed_volume_mm3": 46.271985182999686,
+      "surface_area_mm2": 135.43995533466654,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 0.05737726162691961,
+      "centroid_in_print_coordinates_mm": [
+        0.0,
+        1.6832641648595448,
+        1.7457120629588558
+      ]
+    },
+    "selector": {
+      "file": "exports/selector.stl",
+      "sha256": "9668dbabf77a4875c96a98032fdbe0de6ca6173e54c4b2284ba298f9510b59e6",
+      "triangles": 588,
+      "vertices": 296,
+      "edges": 882,
+      "bounds_mm": [
+        [
+          -7.59999942779541,
+          -16.0,
+          3.814697322468419e-07
+        ],
+        [
+          7.59999942779541,
+          12.0,
+          18.399999618530273
+        ]
+      ],
+      "dimensions_mm": [
+        15.19999885559082,
+        28.0,
+        18.39999923706054
+      ],
+      "signed_volume_mm3": 2192.119317060955,
+      "surface_area_mm2": 2278.0565004156697,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 2.718227953155584,
+      "centroid_in_print_coordinates_mm": [
+        9.177074007622756e-17,
+        -3.882071252305928,
+        8.94536691287176
+      ]
+    },
+    "axle": {
+      "file": "exports/axle.stl",
+      "sha256": "a00b041639289a9b915d4574bbebda5274ee2678151b41b33dec7297ad649290",
+      "triangles": 156,
+      "vertices": 80,
+      "edges": 234,
+      "bounds_mm": [
+        [
+          -0.875,
+          -0.875,
+          0.0
+        ],
+        [
+          0.875,
+          0.875,
+          18.799999237060547
+        ]
+      ],
+      "dimensions_mm": [
+        1.75,
+        1.75,
+        18.799999237060547
+      ],
+      "signed_volume_mm3": 45.03357038497003,
+      "surface_area_mm2": 108.04297201749522,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 0.055841627277362825,
+      "centroid_in_print_coordinates_mm": [
+        -2.3497611033279763e-18,
+        3.307962864726065e-18,
+        9.399999618530272
+      ]
+    },
+    "retainer": {
+      "file": "exports/retainer.stl",
+      "sha256": "8460b91680cfbb59647cc9239dd4f2bd01243aaa1b5ce9e514caf5b694bbf5c3",
+      "triangles": 268,
+      "vertices": 136,
+      "edges": 402,
+      "bounds_mm": [
+        [
+          -2.09999942779541,
+          -2.09999942779541,
+          0.0
+        ],
+        [
+          2.0569825172424316,
+          2.09999942779541,
+          2.3999996185302734
+        ]
+      ],
+      "dimensions_mm": [
+        4.156981945037842,
+        4.19999885559082,
+        2.3999996185302734
+      ],
+      "signed_volume_mm3": 25.265769663926054,
+      "surface_area_mm2": 67.84146833809818,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 0.03132955438326831,
+      "centroid_in_print_coordinates_mm": [
+        -0.13965166557079306,
+        1.5819042688246761e-16,
+        1.1999998092651374
+      ]
+    },
+    "coupon": {
+      "file": "exports/coupon.stl",
+      "sha256": "e265be6105a890bef7c8f1f440f2805fdf7f7aefd2930e00d385d7b93db75994",
+      "triangles": 1784,
+      "vertices": 872,
+      "edges": 2676,
+      "bounds_mm": [
+        [
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          90.0,
+          30.0,
+          4.0
+        ]
+      ],
+      "dimensions_mm": [
+        90.0,
+        30.0,
+        4.0
+      ],
+      "signed_volume_mm3": 10293.211136771037,
+      "surface_area_mm2": 6551.880064557782,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 12.763581809596086,
+      "centroid_in_print_coordinates_mm": [
+        44.82030413439801,
+        14.904952549672942,
+        1.9999999999999996
+      ]
+    },
+    "marble": {
+      "file": "exports/marble.stl",
+      "sha256": "11aac731b9a39ce7ea807f2453c7a690fb8ac7a32a010968cbf5bf7e95d8a04f",
+      "triangles": 9212,
+      "vertices": 4608,
+      "edges": 13818,
+      "bounds_mm": [
+        [
+          -3.9978582859039307,
+          -3.9978582859039307,
+          0.002141650067642331
+        ],
+        [
+          3.9978582859039307,
+          3.9978582859039307,
+          7.99785852432251
+        ]
+      ],
+      "dimensions_mm": [
+        7.995716571807861,
+        7.995716571807861,
+        7.995716874254867
+      ],
+      "signed_volume_mm3": 267.60446865617683,
+      "surface_area_mm2": 200.88257516207688,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 0.33182954113365937,
+      "centroid_in_print_coordinates_mm": [
+        8.821025002128935e-18,
+        -4.335209339289541e-17,
+        4.00000001369182
+      ]
+    },
+    "approach-bridge": {
+      "file": "exports/approach-bridge.stl",
+      "sha256": "1397b13f3d3ee085bfac23affde6a29cec6c1f44f09a0db17720e5b3fd07f0fe",
+      "triangles": 4992,
+      "vertices": 2498,
+      "edges": 7488,
+      "bounds_mm": [
+        [
+          -0.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          64.5999984741211,
+          41.20000076293945,
+          30.969999313354492
+        ]
+      ],
+      "dimensions_mm": [
+        64.5999984741211,
+        41.20000076293945,
+        30.969999313354492
+      ],
+      "signed_volume_mm3": 14142.798126530974,
+      "surface_area_mm2": 9736.34356732204,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 17.53706967689841,
+      "centroid_in_print_coordinates_mm": [
+        27.723066321784053,
+        24.65545222464273,
+        14.017240077688193
+      ]
+    },
+    "collector-ramp": {
+      "file": "exports/collector-ramp.stl",
+      "sha256": "29338b0e3e84c7cfbf61536c3214f00f83f5614b074b58391f675e618fb89766",
+      "triangles": 4314,
+      "vertices": 2159,
+      "edges": 6471,
+      "bounds_mm": [
+        [
+          0.0,
+          -0.0,
+          0.0
+        ],
+        [
+          40.900001525878906,
+          41.20000076293945,
+          24.969999313354492
+        ]
+      ],
+      "dimensions_mm": [
+        40.900001525878906,
+        41.20000076293945,
+        24.969999313354492
+      ],
+      "signed_volume_mm3": 8922.970403071546,
+      "surface_area_mm2": 6143.7025353415975,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "inconsistently_oriented_edges": 0,
+      "degenerate_triangles": 0,
+      "connected_components": 1,
+      "passed": true,
+      "solid_PLA_mass_estimate_g": 11.06448329980872,
+      "centroid_in_print_coordinates_mm": [
+        23.255638812915553,
+        16.29942385566608,
+        10.600538619559906
+      ]
+    }
+  },
+  "limits": "Binary STL topology/size/volume checks, not a slicer, strength, support, printability or physical function test."
+}

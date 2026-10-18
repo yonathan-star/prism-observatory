@@ -1,0 +1,44 @@
+{
+  "raw_sha256": "89f281842e3fc7cd3d3c41df61800e3d865f476e46e3035382ffe5362fe51d48",
+  "output_sha256": "29338b0e3e84c7cfbf61536c3214f00f83f5614b074b58391f675e618fb89766",
+  "coordinate_rounding_mm": 0.0001,
+  "maximum_vertex_displacement_mm": 8.097437004557613e-05,
+  "collapsed_zero_area_triangles": 280,
+  "collinear_edge_retriangulations": 0,
+  "maximum_collinearity_deviation_allowed_mm": 0.00015,
+  "coincident_opposite_internal_faces_removed": 0,
+  "removed_detached_chips": [],
+  "final_mesh": {
+    "file": "exports/collector-ramp.stl",
+    "sha256": "29338b0e3e84c7cfbf61536c3214f00f83f5614b074b58391f675e618fb89766",
+    "triangles": 4314,
+    "vertices": 2159,
+    "edges": 6471,
+    "bounds_mm": [
+      [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      [
+        40.900001525878906,
+        41.20000076293945,
+        24.969999313354492
+      ]
+    ],
+    "dimensions_mm": [
+      40.900001525878906,
+      41.20000076293945,
+      24.969999313354492
+    ],
+    "signed_volume_mm3": 8922.970403071546,
+    "surface_area_mm2": 6143.7025353415975,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  },
+  "limits": "Export cleanup only. Raw export and editable CAD are retained. No print or dynamics validation."
+}

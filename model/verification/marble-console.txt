@@ -1,0 +1,175 @@
+{
+  "passed": true,
+  "samples": 2344,
+  "groups": {
+    "selector-A-to-feed": {
+      "samples": 42,
+      "minimum_clearance_mm": 0.04000011253558977,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "selector-B-to-feed": {
+      "samples": 42,
+      "minimum_clearance_mm": 0.04000011253558977,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "funnel_feed": {
+      "samples": 123,
+      "minimum_clearance_mm": 0.040000007208267796,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "tipper_feed": {
+      "samples": 318,
+      "minimum_clearance_mm": 0.016281935060405317,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "funnel_return": {
+      "samples": 213,
+      "minimum_clearance_mm": 0.04000000027443029,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "tipper_return": {
+      "samples": 138,
+      "minimum_clearance_mm": 0.04000000087197009,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "shared_cascade_feed": {
+      "samples": 453,
+      "minimum_clearance_mm": 0.040000000361638754,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "collector_feed": {
+      "samples": 183,
+      "minimum_clearance_mm": 0.040000009162383776,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "funnel-spiral-envelope": {
+      "samples": 135,
+      "minimum_clearance_mm": 0.04000000863157904,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "funnel-throat-entry": {
+      "samples": 10,
+      "minimum_clearance_mm": 1.7902596957741128,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "funnel-throat-drop": {
+      "samples": 62,
+      "minimum_clearance_mm": 0.10322116116454083,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "funnel-receiver-to-return": {
+      "samples": 22,
+      "minimum_clearance_mm": 0.0400000156307696,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "hopper-to-cup": {
+      "samples": 25,
+      "minimum_clearance_mm": 0.02320809762417486,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cup-loaded-poses": {
+      "samples": 43,
+      "minimum_clearance_mm": 0.005916607784066663,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cup-release-to-deep-receiver": {
+      "samples": 46,
+      "minimum_clearance_mm": 0.2068466132253235,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "tipper-receiver-to-return": {
+      "samples": 24,
+      "minimum_clearance_mm": 0.040000005945803,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "common-feed-to-cascade": {
+      "samples": 13,
+      "minimum_clearance_mm": 0.04000002020666038,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-tray-1": {
+      "samples": 81,
+      "minimum_clearance_mm": 0.040000006325716875,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-edge-1": {
+      "samples": 24,
+      "minimum_clearance_mm": 0.07761154002073045,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-drop-1": {
+      "samples": 40,
+      "minimum_clearance_mm": 0.0799999999999983,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-catch-exit-1": {
+      "samples": 21,
+      "minimum_clearance_mm": 0.08000012008655766,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-tray-2": {
+      "samples": 81,
+      "minimum_clearance_mm": 0.040000486373898525,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-edge-2": {
+      "samples": 24,
+      "minimum_clearance_mm": 0.07761154270120585,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-drop-2": {
+      "samples": 40,
+      "minimum_clearance_mm": 0.0799999999999983,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-catch-exit-2": {
+      "samples": 21,
+      "minimum_clearance_mm": 0.08000096895586051,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-tray-3": {
+      "samples": 81,
+      "minimum_clearance_mm": 0.040000486373898525,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "cascade-to-final-feed": {
+      "samples": 13,
+      "minimum_clearance_mm": 0.04000013984369488,
+      "inside_centers": 0,
+      "passed": true
+    },
+    "final-feed-to-collector": {
+      "samples": 26,
+      "minimum_clearance_mm": 0.040000084131071034,
+      "inside_centers": 0,
+      "passed": true
+    }
+  },
+  "first_obstructions": []
+}

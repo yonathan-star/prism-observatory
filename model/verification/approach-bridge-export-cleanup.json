@@ -1,0 +1,44 @@
+{
+  "raw_sha256": "9c8cf59a295d9f877648ed5a69b7f0354bab806d79c4c1690b4b953c31795dfa",
+  "output_sha256": "1397b13f3d3ee085bfac23affde6a29cec6c1f44f09a0db17720e5b3fd07f0fe",
+  "coordinate_rounding_mm": 0.0001,
+  "maximum_vertex_displacement_mm": 8.408262422109243e-05,
+  "collapsed_zero_area_triangles": 168,
+  "collinear_edge_retriangulations": 0,
+  "maximum_collinearity_deviation_allowed_mm": 0.00015,
+  "coincident_opposite_internal_faces_removed": 0,
+  "removed_detached_chips": [],
+  "final_mesh": {
+    "file": "exports/approach-bridge.stl",
+    "sha256": "1397b13f3d3ee085bfac23affde6a29cec6c1f44f09a0db17720e5b3fd07f0fe",
+    "triangles": 4992,
+    "vertices": 2498,
+    "edges": 7488,
+    "bounds_mm": [
+      [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      [
+        64.5999984741211,
+        41.20000076293945,
+        30.969999313354492
+      ]
+    ],
+    "dimensions_mm": [
+      64.5999984741211,
+      41.20000076293945,
+      30.969999313354492
+    ],
+    "signed_volume_mm3": 14142.798126530974,
+    "surface_area_mm2": 9736.34356732204,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  },
+  "limits": "Export cleanup only. Raw export and editable CAD are retained. No print or dynamics validation."
+}

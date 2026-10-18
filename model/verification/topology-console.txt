@@ -1,0 +1,163 @@
+{
+  "topology_passed": true,
+  "parts": {
+    "chassis": {
+      "passed": true,
+      "triangles": 63376,
+      "dimensions_mm": [
+        144.0,
+        144.0,
+        149.8000030517578
+      ],
+      "solid_PLA_mass_estimate_g": 440.8096985103696
+    },
+    "funnel": {
+      "passed": true,
+      "triangles": 4852,
+      "dimensions_mm": [
+        61.29999923706055,
+        59.57076644897461,
+        131.0
+      ],
+      "solid_PLA_mass_estimate_g": 24.473589305329497
+    },
+    "cascade": {
+      "passed": true,
+      "triangles": 2412,
+      "dimensions_mm": [
+        86.4000015258789,
+        32.400001525878906,
+        80.0
+      ],
+      "solid_PLA_mass_estimate_g": 42.92756281363902
+    },
+    "cup": {
+      "passed": true,
+      "triangles": 1450,
+      "dimensions_mm": [
+        15.779611587524414,
+        40.089805603027344,
+        6.00000076293945
+      ],
+      "solid_PLA_mass_estimate_g": 0.44423562949046713
+    },
+    "ballast": {
+      "passed": true,
+      "triangles": 44,
+      "dimensions_mm": [
+        14.0,
+        10.0,
+        6.899998855590809
+      ],
+      "solid_PLA_mass_estimate_g": 0.792627790524226
+    },
+    "ballast-light": {
+      "passed": true,
+      "triangles": 60,
+      "dimensions_mm": [
+        14.0,
+        10.0,
+        6.899998855590809
+      ],
+      "solid_PLA_mass_estimate_g": 0.591747774559718
+    },
+    "balance-endclip": {
+      "passed": true,
+      "triangles": 28,
+      "dimensions_mm": [
+        6.399999618530273,
+        3.1999998092651367,
+        3.1999989509582463
+      ],
+      "solid_PLA_mass_estimate_g": 0.05737726162691961
+    },
+    "selector": {
+      "passed": true,
+      "triangles": 588,
+      "dimensions_mm": [
+        15.19999885559082,
+        28.0,
+        18.39999923706054
+      ],
+      "solid_PLA_mass_estimate_g": 2.718227953155584
+    },
+    "axle": {
+      "passed": true,
+      "triangles": 156,
+      "dimensions_mm": [
+        1.75,
+        1.75,
+        18.799999237060547
+      ],
+      "solid_PLA_mass_estimate_g": 0.055841627277362825
+    },
+    "retainer": {
+      "passed": true,
+      "triangles": 268,
+      "dimensions_mm": [
+        4.156981945037842,
+        4.19999885559082,
+        2.3999996185302734
+      ],
+      "solid_PLA_mass_estimate_g": 0.03132955438326831
+    },
+    "coupon": {
+      "passed": true,
+      "triangles": 1784,
+      "dimensions_mm": [
+        90.0,
+        30.0,
+        4.0
+      ],
+      "solid_PLA_mass_estimate_g": 12.763581809596086
+    },
+    "marble": {
+      "passed": true,
+      "triangles": 9212,
+      "dimensions_mm": [
+        7.995716571807861,
+        7.995716571807861,
+        7.995716874254867
+      ],
+      "solid_PLA_mass_estimate_g": 0.33182954113365937
+    },
+    "approach-bridge": {
+      "passed": true,
+      "triangles": 4992,
+      "dimensions_mm": [
+        64.5999984741211,
+        41.20000076293945,
+        30.969999313354492
+      ],
+      "solid_PLA_mass_estimate_g": 17.53706967689841
+    },
+    "collector-ramp": {
+      "passed": true,
+      "triangles": 4314,
+      "dimensions_mm": [
+        40.900001525878906,
+        41.20000076293945,
+        24.969999313354492
+      ],
+      "solid_PLA_mass_estimate_g": 11.06448329980872
+    }
+  },
+  "gravity_signs_passed": true,
+  "balance": [
+    {
+      "position_mm": 9.5,
+      "minimum_empty_restoring_moment_g_mm": 0.26211336460484436,
+      "loaded_rest_moment_g_mm": -0.9844748676001451
+    },
+    {
+      "position_mm": 9.7,
+      "minimum_empty_restoring_moment_g_mm": 0.3530398892931821,
+      "loaded_rest_moment_g_mm": -0.8265525471040638
+    },
+    {
+      "position_mm": 10.5,
+      "minimum_empty_restoring_moment_g_mm": 0.7167459880465334,
+      "loaded_rest_moment_g_mm": -0.19486326511973662
+    }
+  ]
+}

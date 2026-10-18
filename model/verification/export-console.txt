@@ -1,0 +1,124 @@
+[
+  {
+    "name": "funnel_feed",
+    "length_mm": 41.020955752721235,
+    "grade_percent": [
+      10.254175258828123,
+      28.776754898293582
+    ],
+    "start": [
+      63.97415946665927,
+      127.52584053334073,
+      130.37
+    ],
+    "end": [
+      27.0,
+      123.05255888325765,
+      121.0
+    ]
+  },
+  {
+    "name": "tipper_feed",
+    "length_mm": 92.53279373169939,
+    "grade_percent": [
+      5.7286803408845985,
+      9.960782599546588
+    ],
+    "start": [
+      87.02584053334073,
+      127.52584053334073,
+      130.37
+    ],
+    "end": [
+      115.41061684419097,
+      87.0,
+      124.0
+    ]
+  },
+  {
+    "name": "funnel_return",
+    "length_mm": 79.61517315695312,
+    "grade_percent": [
+      7.618557977849141,
+      13.275563981019497
+    ],
+    "start": [
+      47.0,
+      104.0,
+      85.28
+    ],
+    "end": [
+      72.0,
+      68.0,
+      78.0
+    ]
+  },
+  {
+    "name": "tipper_return",
+    "length_mm": 52.321201724357415,
+    "grade_percent": [
+      7.986833079432985,
+      13.040776392639852
+    ],
+    "start": [
+      115.41061684419097,
+      79.0,
+      83.12
+    ],
+    "end": [
+      72.0,
+      68.0,
+      78.0
+    ]
+  },
+  {
+    "name": "shared_cascade_feed",
+    "length_mm": 98.53863106324341,
+    "grade_percent": [
+      8.109169239594513,
+      12.2771585929678
+    ],
+    "start": [
+      72.0,
+      68.0,
+      78.0
+    ],
+    "end": [
+      41.7,
+      42.0,
+      67.03
+    ]
+  },
+  {
+    "name": "collector_feed",
+    "length_mm": 61.1386310632434,
+    "grade_percent": [
+      7.502382938939006,
+      9.973282238205103
+    ],
+    "start": [
+      102.3,
+      42.0,
+      16.97
+    ],
+    "end": [
+      82.0,
+      16.0,
+      12.0
+    ]
+  }
+]
+Exported chassis: 3,199,984 bytes
+Exported funnel: 242,684 bytes
+Exported cascade: 120,684 bytes
+Exported cup: 72,584 bytes
+Exported ballast: 2,284 bytes
+Exported ballast-light: 3,084 bytes
+Exported balance-endclip: 1,484 bytes
+Exported selector: 29,484 bytes
+Exported axle: 7,884 bytes
+Exported retainer: 13,484 bytes
+Exported coupon: 89,284 bytes
+Exported marble: 460,684 bytes
+Exported approach-bridge: 258,084 bytes
+Exported collector-ramp: 229,784 bytes

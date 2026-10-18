@@ -1,0 +1,44 @@
+{
+  "raw_sha256": "96ae958f9b8dc1c822787daa120899cc7b45bdc2ec8a479751897d74985f111d",
+  "output_sha256": "782c0e3d46d60abf38d63d602eb8cbfcc1008531428096f3899178db305e10c8",
+  "coordinate_rounding_mm": 0.0001,
+  "maximum_vertex_displacement_mm": 8.475910460257391e-05,
+  "collapsed_zero_area_triangles": 651,
+  "collinear_edge_retriangulations": 22,
+  "maximum_collinearity_deviation_allowed_mm": 0.00015,
+  "coincident_opposite_internal_faces_removed": 2,
+  "removed_detached_chips": [],
+  "final_mesh": {
+    "file": "exports/chassis.stl",
+    "sha256": "782c0e3d46d60abf38d63d602eb8cbfcc1008531428096f3899178db305e10c8",
+    "triangles": 63376,
+    "vertices": 31465,
+    "edges": 95064,
+    "bounds_mm": [
+      [
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        144.0,
+        144.0,
+        149.8000030517578
+      ]
+    ],
+    "dimensions_mm": [
+      144.0,
+      144.0,
+      149.8000030517578
+    ],
+    "signed_volume_mm3": 355491.69234707224,
+    "surface_area_mm2": 161016.43875251772,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "inconsistently_oriented_edges": 0,
+    "degenerate_triangles": 0,
+    "connected_components": 1,
+    "passed": true
+  },
+  "limits": "Export cleanup only. Raw export and editable CAD are retained. No print or dynamics validation."
+}

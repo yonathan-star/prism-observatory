@@ -1,0 +1,3786 @@
+{
+  "stationary_fit": {
+    "funnel": {
+      "surface_crossings": [],
+      "passed": true
+    },
+    "cascade": {
+      "surface_crossings": [],
+      "passed": true
+    },
+    "funnel_vs_cascade": {
+      "surface_crossings": [],
+      "passed": true
+    }
+  },
+  "cup_poses": [
+    {
+      "angle_degrees": -4.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -3.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -2.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -1.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -0.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 0.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 1.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 2.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 3.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 4.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 5.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 6.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 7.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 8.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 11.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 12.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 13.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 14.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 15.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 16.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 17.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 18.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 19.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 20.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 21.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 22.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 23.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 24.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 25.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 26.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 27.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 28.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 29.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 30.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 31.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 32.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 33.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 34.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 35.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 36.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 37.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 38.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 39.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 40.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 41.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 42.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 43.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 44.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 45.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 46.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 47.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 48.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 49.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 50.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 51.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 52.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 53.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 54.5,
+      "surface_crossings": [],
+      "passed": true
+    }
+  ],
+  "ballast_poses": [
+    {
+      "angle_degrees": -4.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -4.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -4.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -3.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -3.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -3.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -2.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -2.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -2.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -1.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -1.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -1.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -0.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -0.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": -0.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 0.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 0.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 0.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 1.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 1.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 1.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 2.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 2.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 2.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 3.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 3.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 3.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 4.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 4.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 4.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 5.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 5.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 5.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 6.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 6.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 6.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 7.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 7.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 7.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 8.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 8.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 8.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 9.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 9.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 9.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 10.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 10.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 10.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 11.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 11.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 11.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 12.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 12.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 12.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 13.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 13.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 13.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 14.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 14.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 14.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 15.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 15.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 15.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 16.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 16.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 16.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 17.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 17.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 17.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 18.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 18.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 18.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 19.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 19.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 19.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 20.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 20.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 20.5,
+      "position_mm": 10.5,
+      "surface_crossings": [
+        {
+          "moving_face": 2,
+          "fixed_face": 6014,
+          "point_mm": [
+            122.22109676788968,
+            116.62198907377815,
+            124.16397568714302
+          ]
+        },
+        {
+          "moving_face": 4,
+          "fixed_face": 5984,
+          "point_mm": [
+            122.41061684419097,
+            116.74269979783492,
+            124.0689093420032
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 21.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 21.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 21.5,
+      "position_mm": 10.5,
+      "surface_crossings": [
+        {
+          "moving_face": 2,
+          "fixed_face": 6031,
+          "point_mm": [
+            122.41061684419097,
+            116.18086662550506,
+            124.27958038248016
+          ]
+        },
+        {
+          "moving_face": 4,
+          "fixed_face": 6000,
+          "point_mm": [
+            122.41061684419097,
+            116.18276000250728,
+            124.02440703420615
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 22.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 22.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 22.5,
+      "position_mm": 10.5,
+      "surface_crossings": [
+        {
+          "moving_face": 2,
+          "fixed_face": 6031,
+          "point_mm": [
+            122.41061684419097,
+            116.18086662550506,
+            124.56567996633333
+          ]
+        },
+        {
+          "moving_face": 4,
+          "fixed_face": 6000,
+          "point_mm": [
+            122.41061684419097,
+            116.18276000250728,
+            124.02440703420615
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 23.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 23.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 23.5,
+      "position_mm": 10.5,
+      "surface_crossings": [
+        {
+          "moving_face": 4,
+          "fixed_face": 6000,
+          "point_mm": [
+            122.41061684419097,
+            116.18276000250728,
+            124.02440703420615
+          ]
+        },
+        {
+          "moving_face": 6,
+          "fixed_face": 6001,
+          "point_mm": [
+            122.26112493831434,
+            116.52884369781844,
+            124.05719631478524
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 24.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 24.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 24.5,
+      "position_mm": 10.5,
+      "surface_crossings": [
+        {
+          "moving_face": 4,
+          "fixed_face": 6000,
+          "point_mm": [
+            122.41061684419097,
+            116.18276000250728,
+            124.02440703420615
+          ]
+        },
+        {
+          "moving_face": 6,
+          "fixed_face": 6001,
+          "point_mm": [
+            122.29345600869026,
+            116.45360943970984,
+            124.05007388243448
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 25.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 25.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 25.5,
+      "position_mm": 10.5,
+      "surface_crossings": [
+        {
+          "moving_face": 4,
+          "fixed_face": 6000,
+          "point_mm": [
+            122.41061684419097,
+            116.18276000250728,
+            124.02440703420615
+          ]
+        },
+        {
+          "moving_face": 6,
+          "fixed_face": 6001,
+          "point_mm": [
+            122.32402926338979,
+            116.38246561092407,
+            124.04333869130693
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 26.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 26.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 26.5,
+      "position_mm": 10.5,
+      "surface_crossings": [
+        {
+          "moving_face": 4,
+          "fixed_face": 6000,
+          "point_mm": [
+            122.41061684419097,
+            116.18276000250728,
+            124.02440703420615
+          ]
+        },
+        {
+          "moving_face": 6,
+          "fixed_face": 6001,
+          "point_mm": [
+            122.35283043444154,
+            116.31544541296762,
+            124.03699388459147
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 27.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 27.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 27.5,
+      "position_mm": 10.5,
+      "surface_crossings": [
+        {
+          "moving_face": 4,
+          "fixed_face": 6000,
+          "point_mm": [
+            122.41061684419097,
+            116.18276000250728,
+            124.02440703420615
+          ]
+        },
+        {
+          "moving_face": 6,
+          "fixed_face": 6001,
+          "point_mm": [
+            122.37984203231936,
+            116.25258954389069,
+            124.03104331517531
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 28.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 28.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 28.5,
+      "position_mm": 10.5,
+      "surface_crossings": [
+        {
+          "moving_face": 4,
+          "fixed_face": 6000,
+          "point_mm": [
+            122.41061684419097,
+            116.18276000250728,
+            124.02440703420615
+          ]
+        },
+        {
+          "moving_face": 6,
+          "fixed_face": 6030,
+          "point_mm": [
+            122.41029845514717,
+            116.1816646666363,
+            124.04811192744704
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 29.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 29.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 29.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 30.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 30.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 30.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 31.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 31.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 31.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 32.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 32.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 32.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 33.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 33.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 33.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 34.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 34.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 34.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 35.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 35.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 35.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 36.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 36.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 36.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 37.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 37.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 37.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 38.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 38.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 38.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 39.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 39.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 39.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 40.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 40.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 40.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 41.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 41.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 41.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 42.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 42.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 42.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 43.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 43.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 43.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 44.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 44.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 44.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 45.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 45.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 45.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 46.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 46.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 46.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 47.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 47.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 47.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 48.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 48.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 48.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 49.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 49.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 49.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 50.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 50.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 50.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 51.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 51.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 51.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 52.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 52.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 52.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 53.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 53.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 53.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 54.5,
+      "position_mm": 9.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 54.5,
+      "position_mm": 9.7,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 54.5,
+      "position_mm": 10.5,
+      "surface_crossings": [],
+      "passed": true
+    }
+  ],
+  "selector_poses": [
+    {
+      "angle_degrees": 135.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.63157746664685,
+            112.41408849254921,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.68821989853954,
+            114.5314205821333,
+            129.41119071907596
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.68821989853954,
+            114.5314205821333,
+            129.41119071907596
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 136.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.61186265862048,
+            112.45351885311082,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.72544112456964,
+            114.56864180816339,
+            129.41296732084018
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.72544112456964,
+            114.56864180816339,
+            129.41296732084018
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 137.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.59300511357633,
+            112.49123465533441,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.76286999367552,
+            114.60607067726927,
+            129.4147763671059
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.76286999367552,
+            114.60607067726927,
+            129.4147763671059
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 138.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.5750101196312,
+            112.52722532278658,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.80052384244898,
+            114.64372452604273,
+            129.41661813594092
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.80052384244898,
+            114.64372452604273,
+            129.41661813594092
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 139.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.5578845163076,
+            112.56147717616408,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.8384199676797,
+            114.68162065127345,
+            129.41849295446744
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.8384199676797,
+            114.68162065127345,
+            129.41849295446744
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 140.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.54163675825741,
+            112.59397330584387,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.87657567152912,
+            114.71977635512287,
+            129.42040119802218
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.87657567152912,
+            114.71977635512287,
+            129.42040119802218
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 141.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.52627698774336,
+            112.62469342691746,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.9150083050375,
+            114.75820898863125,
+            129.4223432895399
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46101,
+          "point_mm": [
+            79.9150083050375,
+            114.75820898863125,
+            129.4223432895399
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 142.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.5118171166595,
+            112.65361371514693,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.63254153499685,
+            113.3221405345258,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.63254153499685,
+            113.3221405345258,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 143.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.49827091898305,
+            112.68070662205767,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.67849491583442,
+            113.41212358641789,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.67849491583442,
+            113.41212358641789,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 144.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.48565413467682,
+            112.70594066712964,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.72287087695543,
+            113.5028949305349,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.72287087695543,
+            113.5028949305349,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 145.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.4739845862055,
+            112.72928020476047,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.76565590101222,
+            113.59442691704605,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.76565590101222,
+            113.59442691704605,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 146.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.46328230899417,
+            112.7506851633433,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.80683695527203,
+            113.68669166442159,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.80683695527203,
+            113.68669166442157,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 147.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46099,
+          "point_mm": [
+            82.45356969734722,
+            112.77011075342371,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.84640149558676,
+            113.77966106792566,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.84640149558676,
+            113.77966106792566,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 148.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46096,
+          "point_mm": [
+            83.01489724842736,
+            113.71770434730195,
+            129.4019457877386
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.88433747021419,
+            113.87330680817735,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.8843374702142,
+            113.87330680817735,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 149.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46096,
+          "point_mm": [
+            82.99049718237382,
+            113.7421044143893,
+            129.41437580138762
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.92063332348896,
+            113.967600359777,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.92063332348896,
+            113.967600359777,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 150.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46096,
+          "point_mm": [
+            82.9675745824243,
+            113.76502701273036,
+            129.42680158728243
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.95527799934253,
+            114.06251299999536,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.95527799934253,
+            114.06251299999536,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 151.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46096,
+          "point_mm": [
+            82.94613626057436,
+            113.78646533029126,
+            129.43923071152145
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.98826094467103,
+            114.1580158175228,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.98826094467103,
+            114.1580158175228,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 152.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46096,
+          "point_mm": [
+            82.92619151204963,
+            113.80641007180316,
+            129.4516708562949
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.01957211254981,
+            114.2540797212759,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.01957211254981,
+            114.2540797212759,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 153.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46096,
+          "point_mm": [
+            82.90775219202693,
+            113.82484938204095,
+            129.4641298417571
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.0492019652938,
+            114.35067544925903,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.0492019652938,
+            114.35067544925903,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 154.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46096,
+          "point_mm": [
+            82.89083280431642,
+            113.84176875714091,
+            129.47661564899136
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.07714147736284,
+            114.44777357747766,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.07714147736284,
+            114.44777357747766,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 155.5,
+      "surface_crossings": [
+        {
+          "moving_face": 20,
+          "fixed_face": 46096,
+          "point_mm": [
+            82.87545060286139,
+            113.85715094310056,
+            129.48913644422575
+          ]
+        },
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.1033821381109,
+            114.54534452890135,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.1033821381109,
+            114.54534452890135,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 156.5,
+      "surface_crossings": [
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.12791595437851,
+            114.64335858247311,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.12791595437851,
+            114.64335858247311,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.88261074681296,
+            114.7500194747797,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 157.5,
+      "surface_crossings": [
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.15073545292756,
+            114.74178588216273,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.15073545292756,
+            114.74178588216273,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.9036061172898,
+            114.8441493633152,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 158.5,
+      "surface_crossings": [
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.17183368271776,
+            114.84059644606124,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.17183368271776,
+            114.84059644606124,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.92295549699739,
+            114.93863133515158,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 159.5,
+      "surface_crossings": [
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.19120421702391,
+            114.93976017551365,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.19120421702391,
+            114.93976017551365,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.94065299192725,
+            115.033436610165,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 160.5,
+      "surface_crossings": [
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.20884115539361,
+            115.03924686428739,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.20884115539361,
+            115.03924686428739,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.956693211251,
+            115.12853630975026,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 161.5,
+      "surface_crossings": [
+        {
+          "moving_face": 58,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.2247391254446,
+            115.13902620777331,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.2247391254446,
+            115.13902620777331,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.9710712689624,
+            115.22390146561763,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 162.5,
+      "surface_crossings": [
+        {
+          "moving_face": 58,
+          "fixed_face": 46099,
+          "point_mm": [
+            81.2388932845012,
+            115.23906781221676,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46099,
+          "point_mm": [
+            81.2388932845012,
+            115.23906781221676,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.98378278536583,
+            115.31950302861681,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 163.5,
+      "surface_crossings": [
+        {
+          "moving_face": 58,
+          "fixed_face": 46099,
+          "point_mm": [
+            81.25129932106941,
+            115.33934120397592,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46099,
+          "point_mm": [
+            81.25129932106941,
+            115.33934120397592,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46100,
+          "point_mm": [
+            80.99482388841024,
+            115.4153118775856,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 164.5,
+      "surface_crossings": [
+        {
+          "moving_face": 58,
+          "fixed_face": 46099,
+          "point_mm": [
+            81.26195345615035,
+            115.43981583880431,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 59,
+          "fixed_face": 46099,
+          "point_mm": [
+            81.26195345615035,
+            115.43981583880431,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46100,
+          "point_mm": [
+            81.00419121486868,
+            115.51129882822048,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 165.5,
+      "surface_crossings": [
+        {
+          "moving_face": 59,
+          "fixed_face": 46095,
+          "point_mm": [
+            80.97130708241104,
+            115.7612978980577,
+            129.48611972890353
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46101,
+          "point_mm": [
+            80.87567255414542,
+            115.71887323773917,
+            129.49262150136968
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 166.5,
+      "surface_crossings": [
+        {
+          "moving_face": 59,
+          "fixed_face": 46095,
+          "point_mm": [
+            80.95558169372886,
+            115.77702328673989,
+            129.4943239461447
+          ]
+        },
+        {
+          "moving_face": 60,
+          "fixed_face": 46099,
+          "point_mm": [
+            81.0178936352319,
+            115.7036900349233,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 167.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 168.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 169.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 170.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 171.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 172.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 173.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 174.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 175.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 176.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 177.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 178.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 179.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 180.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 181.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 182.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 183.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 184.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 185.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 186.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 187.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 188.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 189.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 190.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 191.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 192.5,
+      "surface_crossings": [],
+      "passed": true
+    },
+    {
+      "angle_degrees": 193.5,
+      "surface_crossings": [
+        {
+          "moving_face": 30,
+          "fixed_face": 46081,
+          "point_mm": [
+            69.9821063647681,
+            115.7036900349233,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46086,
+          "point_mm": [
+            70.06474010360998,
+            115.77846057998377,
+            129.49465858339252
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 194.5,
+      "surface_crossings": [
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.98811808863721,
+            115.60743464196642,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.96164197121259,
+            115.60058753451611,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 195.5,
+      "surface_crossings": [
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.9958087851313,
+            115.51129882822048,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46081,
+          "point_mm": [
+            69.73804654384965,
+            115.43981583880431,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 33,
+          "fixed_face": 46077,
+          "point_mm": [
+            70.01291304907122,
+            115.74551802953997,
+            129.47788708855526
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 196.5,
+      "surface_crossings": [
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.00517611158976,
+            115.4153118775856,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46081,
+          "point_mm": [
+            69.74870067893059,
+            115.33934120397592,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 33,
+          "fixed_face": 46086,
+          "point_mm": [
+            70.10501135090269,
+            115.73818933269106,
+            129.47187741762707
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 197.5,
+      "surface_crossings": [
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.01621721463417,
+            115.31950302861681,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46081,
+          "point_mm": [
+            69.7611067154988,
+            115.23906781221676,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 33,
+          "fixed_face": 46086,
+          "point_mm": [
+            70.11823319005512,
+            115.72496749353863,
+            129.46439791476323
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 198.5,
+      "surface_crossings": [
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.0289287310376,
+            115.22390146561763,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.77526087455539,
+            115.13902620777331,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 33,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.72194645251459,
+            115.12118744527218,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 199.5,
+      "surface_crossings": [
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.52655067828243,
+            115.29966162799136,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.043306788749,
+            115.12853630975026,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.79115884460639,
+            115.03924686428739,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 200.5,
+      "surface_crossings": [
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.53953074861548,
+            115.21296963395973,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.05934700807275,
+            115.033436610165,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.80879578297609,
+            114.93976017551365,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 201.5,
+      "surface_crossings": [
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.55402182593566,
+            115.12651737700173,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.07704450300261,
+            114.93863133515158,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.82816631728224,
+            114.84059644606124,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 202.5,
+      "surface_crossings": [
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.57001949612042,
+            115.04033119131232,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.0963938827102,
+            114.8441493633152,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.84926454707244,
+            114.74178588216273,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 203.5,
+      "surface_crossings": [
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.58751888612446,
+            114.95443733003856,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.11738925318704,
+            114.7500194747797,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46080,
+          "point_mm": [
+            69.87208404562149,
+            114.64335858247311,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 204.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46081,
+          "point_mm": [
+            68.12454940886079,
+            113.8571509173786,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.60651466546406,
+            114.86886195728266,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.14002421903987,
+            114.65627034242105,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 205.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46081,
+          "point_mm": [
+            68.10916722171272,
+            113.84176870256967,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.6270010478408,
+            114.78363114013214,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.16429188543884,
+            114.56293052313309,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 206.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46081,
+          "point_mm": [
+            68.09224784910707,
+            113.8248492995389,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.64897179290419,
+            114.69877084071958,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.19018486021767,
+            114.47002844912899,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 207.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46081,
+          "point_mm": [
+            68.07380854497887,
+            113.8064099622524,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.67242020815242,
+            114.61430690831422,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.21769525612541,
+            114.37759241928045,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 208.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46081,
+          "point_mm": [
+            68.05386381313234,
+            113.78646519454041,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.69733915097108,
+            114.5302650714481,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.24681469322896,
+            114.28565059049761,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 209.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46081,
+          "point_mm": [
+            68.03242550874042,
+            113.76502685159726,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.72372103080875,
+            114.44667093007885,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.2775343014657,
+            114.19423096915217,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 210.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46081,
+          "point_mm": [
+            68.00950292702703,
+            113.74210422866355,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.75155781148929,
+            114.36354994779174,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.30984472334539,
+            114.10336140254641,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 211.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46081,
+          "point_mm": [
+            67.9851028799879,
+            113.71770413774726,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.78084101365965,
+            114.28092744404319,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.3437361168005,
+            114.0130695704306,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 212.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.54643030265278,
+            112.77011075342371,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.81156171737277,
+            114.1988285864482,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.3791981581843,
+            113.92338297657145,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 213.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.53671769100583,
+            112.7506851633433,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.8437105648047,
+            114.11727838311413,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.41622004541543,
+            113.83432894037428,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 214.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.5260154137945,
+            112.72928020476047,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.87727776310507,
+            114.03630167502288,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.45479050126839,
+            113.7459345885612,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 215.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.51434586532318,
+            112.70594066712964,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.91225308738012,
+            113.9559231284642,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.49489777680873,
+            113.65822684690806,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 216.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.50172908101695,
+            112.68070662205767,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.94862588380727,
+            113.87616722752202,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.53652965497176,
+            113.57123243204263,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 217.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.4881828833405,
+            112.65361371514693,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46083,
+          "point_mm": [
+            71.1425592301452,
+            114.04675690802252,
+            129.48969734202586
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46080,
+          "point_mm": [
+            70.57967345428409,
+            113.4849778433064,
+            129.5
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 218.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.47372301225664,
+            112.62469342691746,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 29,
+          "fixed_face": 46083,
+          "point_mm": [
+            71.34406532972957,
+            114.24826872513569,
+            129.4783792237241
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46083,
+          "point_mm": [
+            70.75499755755654,
+            113.65918558559471,
+            129.4878110654106
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 219.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.45836324174259,
+            112.59397330584387,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46083,
+          "point_mm": [
+            70.91176862865936,
+            113.81596123739979,
+            129.4766787517518
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46083,
+          "point_mm": [
+            70.62502837804354,
+            113.52921354648966,
+            129.48056608231263
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 220.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.4421154836924,
+            112.56147717616409,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46083,
+          "point_mm": [
+            71.05166398141311,
+            113.95586068933166,
+            129.46654160437365
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46083,
+          "point_mm": [
+            70.75398544770596,
+            113.65817447318037,
+            129.4698452719617
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 221.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.4249898803688,
+            112.52722532278658,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46083,
+          "point_mm": [
+            71.17705301414401,
+            114.0812534073849,
+            129.45725882692588
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46083,
+          "point_mm": [
+            70.87103345565734,
+            113.77522599409195,
+            129.45990156713776
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 222.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.40699488642367,
+            112.49123465533441,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46083,
+          "point_mm": [
+            71.28987939158853,
+            114.19408311180909,
+            129.4487148626509
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46083,
+          "point_mm": [
+            70.97757555349173,
+            113.88177130143283,
+            129.45064208112862
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 223.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.38813734137952,
+            112.45351885311082,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 30,
+          "fixed_face": 46082,
+          "point_mm": [
+            71.39175132528682,
+            114.2959563667408,
+            129.44081410166535
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46083,
+          "point_mm": [
+            71.07480087929137,
+            113.97899956770864,
+            129.44198803053067
+          ]
+        }
+      ],
+      "passed": false
+    },
+    {
+      "angle_degrees": 224.5,
+      "surface_crossings": [
+        {
+          "moving_face": 11,
+          "fixed_face": 46080,
+          "point_mm": [
+            68.36842253335315,
+            112.41408849254921,
+            129.5
+          ]
+        },
+        {
+          "moving_face": 31,
+          "fixed_face": 46083,
+          "point_mm": [
+            71.16372376764747,
+            114.0679251568773,
+            129.43387215005507
+          ]
+        },
+        {
+          "moving_face": 33,
+          "fixed_face": 46086,
+          "point_mm": [
+            70.43217888619367,
+            115.41102179740008,
+            129.28680100813892
+          ]
+        }
+      ],
+      "passed": false
+    }
+  ],
+  "passed": false,
+  "limits": [
+    "Noncoplanar triangle surface crossings at sampled 1 degree poses; not a force or wear test.",
+    "Intentional bearing-seat, base-foot and press-fit retainer contacts are not certified by this crossing screen.",
+    "End-stop contact at -5/55 and 135/225 degrees is intentional. Interior poses are sampled half a degree away.",
+    "Physical clearances, smooth movement, rotor indexing, carrier retention and automatic tipping/reset still require testing."
+  ]
+}

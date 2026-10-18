@@ -1,0 +1,953 @@
+{
+  "PLA_density_used_g_per_mm3": 0.00124,
+  "ideal_solid_8mm_ball_mass_g": 0.332422390651848,
+  "counterweight_centre_range_mm": [
+    9.5,
+    10.5
+  ],
+  "default_mm": 9.7,
+  "gravity_screen": [
+    {
+      "position_mm": 9.5,
+      "minimum_empty_restoring_moment_g_mm": 0.2621133646048466,
+      "loaded_rest_moment_g_mm": -0.9844748676001416,
+      "samples": [
+        {
+          "angle_degrees": -5.0,
+          "empty_rearward_moment_g_mm": 4.3361611077962605,
+          "loaded_rearward_moment_g_mm": -0.9844748676001416
+        },
+        {
+          "angle_degrees": -4.0,
+          "empty_rearward_moment_g_mm": 4.297091060942151,
+          "loaded_rearward_moment_g_mm": -1.0929783746266422
+        },
+        {
+          "angle_degrees": -3.0,
+          "empty_rearward_moment_g_mm": 4.256712078524024,
+          "loaded_rearward_moment_g_mm": -1.2011489498523114
+        },
+        {
+          "angle_degrees": -2.0,
+          "empty_rearward_moment_g_mm": 4.215036460371083,
+          "loaded_rearward_moment_g_mm": -1.3089536434720666
+        },
+        {
+          "angle_degrees": -1.0,
+          "empty_rearward_moment_g_mm": 4.172076901280337,
+          "loaded_rearward_moment_g_mm": -1.4163596171318993
+        },
+        {
+          "angle_degrees": 0.0,
+          "empty_rearward_moment_g_mm": 4.127846487149647,
+          "loaded_rearward_moment_g_mm": -1.5233341539317689
+        },
+        {
+          "angle_degrees": 1.0,
+          "empty_rearward_moment_g_mm": 4.082358690991621,
+          "loaded_rearward_moment_g_mm": -1.6298446683914838
+        },
+        {
+          "angle_degrees": 2.0,
+          "empty_rearward_moment_g_mm": 4.035627368829625,
+          "loaded_rearward_moment_g_mm": -1.735858716376545
+        },
+        {
+          "angle_degrees": 3.0,
+          "empty_rearward_moment_g_mm": 3.987666755477081,
+          "loaded_rearward_moment_g_mm": -1.84134400498096
+        },
+        {
+          "angle_degrees": 4.0,
+          "empty_rearward_moment_g_mm": 3.9384914602014254,
+          "loaded_rearward_moment_g_mm": -1.9462684023639554
+        },
+        {
+          "angle_degrees": 5.0,
+          "empty_rearward_moment_g_mm": 3.8881164622739677,
+          "loaded_rearward_moment_g_mm": -2.050599947537666
+        },
+        {
+          "angle_degrees": 6.0,
+          "empty_rearward_moment_g_mm": 3.8365571064070716,
+          "loaded_rearward_moment_g_mm": -2.154306860102749
+        },
+        {
+          "angle_degrees": 7.0,
+          "empty_rearward_moment_g_mm": 3.7838290980800013,
+          "loaded_rearward_moment_g_mm": -2.257357549929005
+        },
+        {
+          "angle_degrees": 8.0,
+          "empty_rearward_moment_g_mm": 3.7299484987548803,
+          "loaded_rearward_moment_g_mm": -2.3597206267780395
+        },
+        {
+          "angle_degrees": 9.0,
+          "empty_rearward_moment_g_mm": 3.6749317209842163,
+          "loaded_rearward_moment_g_mm": -2.46136490986503
+        },
+        {
+          "angle_degrees": 10.0,
+          "empty_rearward_moment_g_mm": 3.618795523411477,
+          "loaded_rearward_moment_g_mm": -2.562259437356698
+        },
+        {
+          "angle_degrees": 11.0,
+          "empty_rearward_moment_g_mm": 3.5615570056662462,
+          "loaded_rearward_moment_g_mm": -2.662373475802585
+        },
+        {
+          "angle_degrees": 12.0,
+          "empty_rearward_moment_g_mm": 3.5032336031555147,
+          "loaded_rearward_moment_g_mm": -2.7616765294967474
+        },
+        {
+          "angle_degrees": 13.0,
+          "empty_rearward_moment_g_mm": 3.4438430817526746,
+          "loaded_rearward_moment_g_mm": -2.8601383497670665
+        },
+        {
+          "angle_degrees": 14.0,
+          "empty_rearward_moment_g_mm": 3.3834035323858735,
+          "loaded_rearward_moment_g_mm": -2.957728944189266
+        },
+        {
+          "angle_degrees": 15.0,
+          "empty_rearward_moment_g_mm": 3.321933365527343,
+          "loaded_rearward_moment_g_mm": -3.0544185857228996
+        },
+        {
+          "angle_degrees": 16.0,
+          "empty_rearward_moment_g_mm": 3.259451305585382,
+          "loaded_rearward_moment_g_mm": -3.1501778217665057
+        },
+        {
+          "angle_degrees": 17.0,
+          "empty_rearward_moment_g_mm": 3.195976385200728,
+          "loaded_rearward_moment_g_mm": -3.2449774831291407
+        },
+        {
+          "angle_degrees": 18.0,
+          "empty_rearward_moment_g_mm": 3.131527939449021,
+          "loaded_rearward_moment_g_mm": -3.3387886929156148
+        },
+        {
+          "angle_degrees": 19.0,
+          "empty_rearward_moment_g_mm": 3.0661255999511674,
+          "loaded_rearward_moment_g_mm": -3.431582875322654
+        },
+        {
+          "angle_degrees": 20.0,
+          "empty_rearward_moment_g_mm": 2.999789288893341,
+          "loaded_rearward_moment_g_mm": -3.5233317643433804
+        },
+        {
+          "angle_degrees": 21.0,
+          "empty_rearward_moment_g_mm": 2.932539212958508,
+          "loaded_rearward_moment_g_mm": -3.614007412377404
+        },
+        {
+          "angle_degrees": 22.0,
+          "empty_rearward_moment_g_mm": 2.8643958571712607,
+          "loaded_rearward_moment_g_mm": -3.703582198743946
+        },
+        {
+          "angle_degrees": 23.0,
+          "empty_rearward_moment_g_mm": 2.795379978657894,
+          "loaded_rearward_moment_g_mm": -3.7920288380953435
+        },
+        {
+          "angle_degrees": 24.0,
+          "empty_rearward_moment_g_mm": 2.725512600323574,
+          "loaded_rearward_moment_g_mm": -3.8793203887284466
+        },
+        {
+          "angle_degrees": 25.0,
+          "empty_rearward_moment_g_mm": 2.6548150044485626,
+          "loaded_rearward_moment_g_mm": -3.965430260791324
+        },
+        {
+          "angle_degrees": 26.0,
+          "empty_rearward_moment_g_mm": 2.5833087262054257,
+          "loaded_rearward_moment_g_mm": -4.050332224382778
+        },
+        {
+          "angle_degrees": 27.0,
+          "empty_rearward_moment_g_mm": 2.5110155470992135,
+          "loaded_rearward_moment_g_mm": -4.134000417542236
+        },
+        {
+          "angle_degrees": 28.0,
+          "empty_rearward_moment_g_mm": 2.4379574883326014,
+          "loaded_rearward_moment_g_mm": -4.216409354127547
+        },
+        {
+          "angle_degrees": 29.0,
+          "empty_rearward_moment_g_mm": 2.3641568040980174,
+          "loaded_rearward_moment_g_mm": -4.29753393157832
+        },
+        {
+          "angle_degrees": 30.0,
+          "empty_rearward_moment_g_mm": 2.289635974798805,
+          "loaded_rearward_moment_g_mm": -4.377349438562387
+        },
+        {
+          "angle_degrees": 31.0,
+          "empty_rearward_moment_g_mm": 2.2144177002014658,
+          "loaded_rearward_moment_g_mm": -4.455831562503132
+        },
+        {
+          "angle_degrees": 32.0,
+          "empty_rearward_moment_g_mm": 2.1385248925211,
+          "loaded_rearward_moment_g_mm": -4.532956396985328
+        },
+        {
+          "angle_degrees": 33.0,
+          "empty_rearward_moment_g_mm": 2.061980669442116,
+          "loaded_rearward_moment_g_mm": -4.608700449037269
+        },
+        {
+          "angle_degrees": 34.0,
+          "empty_rearward_moment_g_mm": 1.9848083470763647,
+          "loaded_rearward_moment_g_mm": -4.683040646286949
+        },
+        {
+          "angle_degrees": 35.0,
+          "empty_rearward_moment_g_mm": 1.9070314328608253,
+          "loaded_rearward_moment_g_mm": -4.755954343990136
+        },
+        {
+          "angle_degrees": 36.0,
+          "empty_rearward_moment_g_mm": 1.8286736183970076,
+          "loaded_rearward_moment_g_mm": -4.827419331928178
+        },
+        {
+          "angle_degrees": 37.0,
+          "empty_rearward_moment_g_mm": 1.7497587722342665,
+          "loaded_rearward_moment_g_mm": -4.897413841173456
+        },
+        {
+          "angle_degrees": 38.0,
+          "empty_rearward_moment_g_mm": 1.6703109325992087,
+          "loaded_rearward_moment_g_mm": -4.965916550720397
+        },
+        {
+          "angle_degrees": 39.0,
+          "empty_rearward_moment_g_mm": 1.5903543000734168,
+          "loaded_rearward_moment_g_mm": -5.032906593980076
+        },
+        {
+          "angle_degrees": 40.0,
+          "empty_rearward_moment_g_mm": 1.5099132302217138,
+          "loaded_rearward_moment_g_mm": -5.098363565136369
+        },
+        {
+          "angle_degrees": 41.0,
+          "empty_rearward_moment_g_mm": 1.429012226173227,
+          "loaded_rearward_moment_g_mm": -5.162267525361765
+        },
+        {
+          "angle_degrees": 42.0,
+          "empty_rearward_moment_g_mm": 1.3476759311574955,
+          "loaded_rearward_moment_g_mm": -5.224599008890926
+        },
+        {
+          "angle_degrees": 43.0,
+          "empty_rearward_moment_g_mm": 1.2659291209979044,
+          "loaded_rearward_moment_g_mm": -5.285339028950151
+        },
+        {
+          "angle_degrees": 44.0,
+          "empty_rearward_moment_g_mm": 1.1837966965647269,
+          "loaded_rearward_moment_g_mm": -5.34446908354093
+        },
+        {
+          "angle_degrees": 45.0,
+          "empty_rearward_moment_g_mm": 1.1013036761900785,
+          "loaded_rearward_moment_g_mm": -5.401971161075827
+        },
+        {
+          "angle_degrees": 46.0,
+          "empty_rearward_moment_g_mm": 1.018475188047095,
+          "loaded_rearward_moment_g_mm": -5.457827745864991
+        },
+        {
+          "angle_degrees": 47.0,
+          "empty_rearward_moment_g_mm": 0.9353364624956418,
+          "loaded_rearward_moment_g_mm": -5.512021823451601
+        },
+        {
+          "angle_degrees": 48.0,
+          "empty_rearward_moment_g_mm": 0.8519128243969034,
+          "loaded_rearward_moment_g_mm": -5.5645368857946345
+        },
+        {
+          "angle_degrees": 49.0,
+          "empty_rearward_moment_g_mm": 0.7682296853991907,
+          "loaded_rearward_moment_g_mm": -5.6153569362973705
+        },
+        {
+          "angle_degrees": 50.0,
+          "empty_rearward_moment_g_mm": 0.6843125361972962,
+          "loaded_rearward_moment_g_mm": -5.664466494680131
+        },
+        {
+          "angle_degrees": 51.0,
+          "empty_rearward_moment_g_mm": 0.6001869387677923,
+          "loaded_rearward_moment_g_mm": -5.711850601695692
+        },
+        {
+          "angle_degrees": 52.0,
+          "empty_rearward_moment_g_mm": 0.5158785185825975,
+          "loaded_rearward_moment_g_mm": -5.757494823686036
+        },
+        {
+          "angle_degrees": 53.0,
+          "empty_rearward_moment_g_mm": 0.4314129568032151,
+          "loaded_rearward_moment_g_mm": -5.801385256978981
+        },
+        {
+          "angle_degrees": 54.0,
+          "empty_rearward_moment_g_mm": 0.3468159824580007,
+          "loaded_rearward_moment_g_mm": -5.843508532123368
+        },
+        {
+          "angle_degrees": 55.0,
+          "empty_rearward_moment_g_mm": 0.2621133646048466,
+          "loaded_rearward_moment_g_mm": -5.883851817961535
+        }
+      ]
+    },
+    {
+      "position_mm": 9.7,
+      "minimum_empty_restoring_moment_g_mm": 0.3530398892931843,
+      "loaded_rest_moment_g_mm": -0.8265525471040602,
+      "samples": [
+        {
+          "angle_degrees": -5.0,
+          "empty_rearward_moment_g_mm": 4.494083428292342,
+          "loaded_rearward_moment_g_mm": -0.8265525471040602
+        },
+        {
+          "angle_degrees": -4.0,
+          "empty_rearward_moment_g_mm": 4.455230458754919,
+          "loaded_rearward_moment_g_mm": -0.9348389768138743
+        },
+        {
+          "angle_degrees": -3.0,
+          "empty_rearward_moment_g_mm": 4.415020382860975,
+          "loaded_rearward_moment_g_mm": -1.0428406455153603
+        },
+        {
+          "angle_degrees": -2.0,
+          "empty_rearward_moment_g_mm": 4.373465448989148,
+          "loaded_rearward_moment_g_mm": -1.150524654854002
+        },
+        {
+          "angle_degrees": -1.0,
+          "empty_rearward_moment_g_mm": 4.330578315174847,
+          "loaded_rearward_moment_g_mm": -1.2578582032373893
+        },
+        {
+          "angle_degrees": 0.0,
+          "empty_rearward_moment_g_mm": 4.28637204525449,
+          "loaded_rearward_moment_g_mm": -1.3648085958269256
+        },
+        {
+          "angle_degrees": 1.0,
+          "empty_rearward_moment_g_mm": 4.2408601048861305,
+          "loaded_rearward_moment_g_mm": -1.4713432544969747
+        },
+        {
+          "angle_degrees": 2.0,
+          "empty_rearward_moment_g_mm": 4.19405635744769,
+          "loaded_rearward_moment_g_mm": -1.5774297277584806
+        },
+        {
+          "angle_degrees": 3.0,
+          "empty_rearward_moment_g_mm": 4.145975059814032,
+          "loaded_rearward_moment_g_mm": -1.6830357006440089
+        },
+        {
+          "angle_degrees": 4.0,
+          "empty_rearward_moment_g_mm": 4.096630858014193,
+          "loaded_rearward_moment_g_mm": -1.7881290045511875
+        },
+        {
+          "angle_degrees": 5.0,
+          "empty_rearward_moment_g_mm": 4.046038782770049,
+          "loaded_rearward_moment_g_mm": -1.8926776270415848
+        },
+        {
+          "angle_degrees": 6.0,
+          "empty_rearward_moment_g_mm": 3.9942142449178144,
+          "loaded_rearward_moment_g_mm": -1.9966497215920063
+        },
+        {
+          "angle_degrees": 7.0,
+          "empty_rearward_moment_g_mm": 3.9411730307137574,
+          "loaded_rearward_moment_g_mm": -2.100013617295249
+        },
+        {
+          "angle_degrees": 8.0,
+          "empty_rearward_moment_g_mm": 3.886931297025545,
+          "loaded_rearward_moment_g_mm": -2.2027378285073747
+        },
+        {
+          "angle_degrees": 9.0,
+          "empty_rearward_moment_g_mm": 3.8315055664107076,
+          "loaded_rearward_moment_g_mm": -2.3047910644385388
+        },
+        {
+          "angle_degrees": 10.0,
+          "empty_rearward_moment_g_mm": 3.7749127220837138,
+          "loaded_rearward_moment_g_mm": -2.406142238684461
+        },
+        {
+          "angle_degrees": 11.0,
+          "empty_rearward_moment_g_mm": 3.7171700027731736,
+          "loaded_rearward_moment_g_mm": -2.5067604786956577
+        },
+        {
+          "angle_degrees": 12.0,
+          "empty_rearward_moment_g_mm": 3.6582949974707546,
+          "loaded_rearward_moment_g_mm": -2.6066151351815074
+        },
+        {
+          "angle_degrees": 13.0,
+          "empty_rearward_moment_g_mm": 3.598305640073407,
+          "loaded_rearward_moment_g_mm": -2.705675791446334
+        },
+        {
+          "angle_degrees": 14.0,
+          "empty_rearward_moment_g_mm": 3.537220203920522,
+          "loaded_rearward_moment_g_mm": -2.8039122726546175
+        },
+        {
+          "angle_degrees": 15.0,
+          "empty_rearward_moment_g_mm": 3.4750572962277024,
+          "loaded_rearward_moment_g_mm": -2.9012946550225402
+        },
+        {
+          "angle_degrees": 16.0,
+          "empty_rearward_moment_g_mm": 3.4118358524188137,
+          "loaded_rearward_moment_g_mm": -2.9977932749330742
+        },
+        {
+          "angle_degrees": 17.0,
+          "empty_rearward_moment_g_mm": 3.347575130358086,
+          "loaded_rearward_moment_g_mm": -3.0933787379717828
+        },
+        {
+          "angle_degrees": 18.0,
+          "empty_rearward_moment_g_mm": 3.2822947044839594,
+          "loaded_rearward_moment_g_mm": -3.1880219278806763
+        },
+        {
+          "angle_degrees": 19.0,
+          "empty_rearward_moment_g_mm": 3.216014459846546,
+          "loaded_rearward_moment_g_mm": -3.2816940154272753
+        },
+        {
+          "angle_degrees": 20.0,
+          "empty_rearward_moment_g_mm": 3.1487545860504316,
+          "loaded_rearward_moment_g_mm": -3.37436646718629
+        },
+        {
+          "angle_degrees": 21.0,
+          "empty_rearward_moment_g_mm": 3.0805355711047353,
+          "loaded_rearward_moment_g_mm": -3.466011054231177
+        },
+        {
+          "angle_degrees": 22.0,
+          "empty_rearward_moment_g_mm": 3.0113781951822616,
+          "loaded_rearward_moment_g_mm": -3.556599860732945
+        },
+        {
+          "angle_degrees": 23.0,
+          "empty_rearward_moment_g_mm": 2.94130352428966,
+          "loaded_rearward_moment_g_mm": -3.6461052924635773
+        },
+        {
+          "angle_degrees": 24.0,
+          "empty_rearward_moment_g_mm": 2.870332903850514,
+          "loaded_rearward_moment_g_mm": -3.734500085201507
+        },
+        {
+          "angle_degrees": 25.0,
+          "empty_rearward_moment_g_mm": 2.798487952203315,
+          "loaded_rearward_moment_g_mm": -3.8217573130365716
+        },
+        {
+          "angle_degrees": 26.0,
+          "empty_rearward_moment_g_mm": 2.7257905540163123,
+          "loaded_rearward_moment_g_mm": -3.907850396571892
+        },
+        {
+          "angle_degrees": 27.0,
+          "empty_rearward_moment_g_mm": 2.6522628536212327,
+          "loaded_rearward_moment_g_mm": -3.9927531110202166
+        },
+        {
+          "angle_degrees": 28.0,
+          "empty_rearward_moment_g_mm": 2.577927248267892,
+          "loaded_rearward_moment_g_mm": -4.076439594192257
+        },
+        {
+          "angle_degrees": 29.0,
+          "empty_rearward_moment_g_mm": 2.502806381301785,
+          "loaded_rearward_moment_g_mm": -4.158884354374553
+        },
+        {
+          "angle_degrees": 30.0,
+          "empty_rearward_moment_g_mm": 2.4269231352667058,
+          "loaded_rearward_moment_g_mm": -4.240062278094486
+        },
+        {
+          "angle_degrees": 31.0,
+          "empty_rearward_moment_g_mm": 2.3503006249344915,
+          "loaded_rearward_moment_g_mm": -4.319948637770106
+        },
+        {
+          "angle_degrees": 32.0,
+          "empty_rearward_moment_g_mm": 2.2729621902640478,
+          "loaded_rearward_moment_g_mm": -4.39851909924238
+        },
+        {
+          "angle_degrees": 33.0,
+          "empty_rearward_moment_g_mm": 2.1949313892917726,
+          "loaded_rearward_moment_g_mm": -4.475749729187613
+        },
+        {
+          "angle_degrees": 34.0,
+          "empty_rearward_moment_g_mm": 2.1162319909555385,
+          "loaded_rearward_moment_g_mm": -4.551617002407776
+        },
+        {
+          "angle_degrees": 35.0,
+          "empty_rearward_moment_g_mm": 2.0368879678544625,
+          "loaded_rearward_moment_g_mm": -4.626097808996499
+        },
+        {
+          "angle_degrees": 36.0,
+          "empty_rearward_moment_g_mm": 1.9569234889465994,
+          "loaded_rearward_moment_g_mm": -4.699169461378586
+        },
+        {
+          "angle_degrees": 37.0,
+          "empty_rearward_moment_g_mm": 1.8763629121868612,
+          "loaded_rearward_moment_g_mm": -4.770809701220861
+        },
+        {
+          "angle_degrees": 38.0,
+          "empty_rearward_moment_g_mm": 1.7952307771073328,
+          "loaded_rearward_moment_g_mm": -4.840996706212273
+        },
+        {
+          "angle_degrees": 39.0,
+          "empty_rearward_moment_g_mm": 1.713551797342309,
+          "loaded_rearward_moment_g_mm": -4.909709096711184
+        },
+        {
+          "angle_degrees": 40.0,
+          "empty_rearward_moment_g_mm": 1.6313508531002636,
+          "loaded_rearward_moment_g_mm": -4.976925942257819
+        },
+        {
+          "angle_degrees": 41.0,
+          "empty_rearward_moment_g_mm": 1.5486529835851153,
+          "loaded_rearward_moment_g_mm": -5.042626767949876
+        },
+        {
+          "angle_degrees": 42.0,
+          "empty_rearward_moment_g_mm": 1.4654833793690265,
+          "loaded_rearward_moment_g_mm": -5.106791560679395
+        },
+        {
+          "angle_degrees": 43.0,
+          "empty_rearward_moment_g_mm": 1.381867374719127,
+          "loaded_rearward_moment_g_mm": -5.169400775228928
+        },
+        {
+          "angle_degrees": 44.0,
+          "empty_rearward_moment_g_mm": 1.297830439880439,
+          "loaded_rearward_moment_g_mm": -5.230435340225218
+        },
+        {
+          "angle_degrees": 45.0,
+          "empty_rearward_moment_g_mm": 1.2133981733173964,
+          "loaded_rearward_moment_g_mm": -5.289876663948509
+        },
+        {
+          "angle_degrees": 46.0,
+          "empty_rearward_moment_g_mm": 1.1285962939163092,
+          "loaded_rearward_moment_g_mm": -5.347706639995777
+        },
+        {
+          "angle_degrees": 47.0,
+          "empty_rearward_moment_g_mm": 1.0434506331511377,
+          "loaded_rearward_moment_g_mm": -5.403907652796105
+        },
+        {
+          "angle_degrees": 48.0,
+          "empty_rearward_moment_g_mm": 0.9579871272149745,
+          "loaded_rearward_moment_g_mm": -5.458462582976563
+        },
+        {
+          "angle_degrees": 49.0,
+          "empty_rearward_moment_g_mm": 0.8722318091196329,
+          "loaded_rearward_moment_g_mm": -5.511354812576928
+        },
+        {
+          "angle_degrees": 50.0,
+          "empty_rearward_moment_g_mm": 0.7862108007657338,
+          "loaded_rearward_moment_g_mm": -5.562568230111694
+        },
+        {
+          "angle_degrees": 51.0,
+          "empty_rearward_moment_g_mm": 0.6999503049857263,
+          "loaded_rearward_moment_g_mm": -5.612087235477757
+        },
+        {
+          "angle_degrees": 52.0,
+          "empty_rearward_moment_g_mm": 0.6134765975622488,
+          "loaded_rearward_moment_g_mm": -5.659896744706384
+        },
+        {
+          "angle_degrees": 53.0,
+          "empty_rearward_moment_g_mm": 0.5268160192242738,
+          "loaded_rearward_moment_g_mm": -5.705982194557922
+        },
+        {
+          "angle_degrees": 54.0,
+          "empty_rearward_moment_g_mm": 0.43999496762346146,
+          "loaded_rearward_moment_g_mm": -5.750329546957907
+        },
+        {
+          "angle_degrees": 55.0,
+          "empty_rearward_moment_g_mm": 0.3530398892931843,
+          "loaded_rearward_moment_g_mm": -5.792925293273196
+        }
+      ]
+    },
+    {
+      "position_mm": 10.5,
+      "minimum_empty_restoring_moment_g_mm": 0.7167459880465357,
+      "loaded_rest_moment_g_mm": -0.19486326511973306,
+      "samples": [
+        {
+          "angle_degrees": -5.0,
+          "empty_rearward_moment_g_mm": 5.125772710276669,
+          "loaded_rearward_moment_g_mm": -0.19486326511973306
+        },
+        {
+          "angle_degrees": -4.0,
+          "empty_rearward_moment_g_mm": 5.087788050005993,
+          "loaded_rearward_moment_g_mm": -0.30228138556280015
+        },
+        {
+          "angle_degrees": -3.0,
+          "empty_rearward_moment_g_mm": 5.048253600208778,
+          "loaded_rearward_moment_g_mm": -0.4096074281675577
+        },
+        {
+          "angle_degrees": -2.0,
+          "empty_rearward_moment_g_mm": 5.007181403461408,
+          "loaded_rearward_moment_g_mm": -0.5168087003817412
+        },
+        {
+          "angle_degrees": -1.0,
+          "empty_rearward_moment_g_mm": 4.964583970752889,
+          "loaded_rearward_moment_g_mm": -0.6238525476593475
+        },
+        {
+          "angle_degrees": 0.0,
+          "empty_rearward_moment_g_mm": 4.920474277673872,
+          "loaded_rearward_moment_g_mm": -0.7307063634075437
+        },
+        {
+          "angle_degrees": 1.0,
+          "empty_rearward_moment_g_mm": 4.874865760464171,
+          "loaded_rearward_moment_g_mm": -0.8373375989189338
+        },
+        {
+          "angle_degrees": 2.0,
+          "empty_rearward_moment_g_mm": 4.827772311919951,
+          "loaded_rearward_moment_g_mm": -0.9437137732862197
+        },
+        {
+          "angle_degrees": 3.0,
+          "empty_rearward_moment_g_mm": 4.7792082771618345,
+          "loaded_rearward_moment_g_mm": -1.0498024832962063
+        },
+        {
+          "angle_degrees": 4.0,
+          "empty_rearward_moment_g_mm": 4.729188449265267,
+          "loaded_rearward_moment_g_mm": -1.1555714133001134
+        },
+        {
+          "angle_degrees": 5.0,
+          "empty_rearward_moment_g_mm": 4.677728064754375,
+          "loaded_rearward_moment_g_mm": -1.2609883450572585
+        },
+        {
+          "angle_degrees": 6.0,
+          "empty_rearward_moment_g_mm": 4.624842798960791,
+          "loaded_rearward_moment_g_mm": -1.3660211675490297
+        },
+        {
+          "angle_degrees": 7.0,
+          "empty_rearward_moment_g_mm": 4.5705487612487845,
+          "loaded_rearward_moment_g_mm": -1.4706378867602217
+        },
+        {
+          "angle_degrees": 8.0,
+          "empty_rearward_moment_g_mm": 4.514862490108205,
+          "loaded_rearward_moment_g_mm": -1.5748066354247152
+        },
+        {
+          "angle_degrees": 9.0,
+          "empty_rearward_moment_g_mm": 4.457800948116678,
+          "loaded_rearward_moment_g_mm": -1.678495682732568
+        },
+        {
+          "angle_degrees": 10.0,
+          "empty_rearward_moment_g_mm": 4.399381516772671,
+          "loaded_rearward_moment_g_mm": -1.781673443995504
+        },
+        {
+          "angle_degrees": 11.0,
+          "empty_rearward_moment_g_mm": 4.339621991200886,
+          "loaded_rearward_moment_g_mm": -1.8843084902679452
+        },
+        {
+          "angle_degrees": 12.0,
+          "empty_rearward_moment_g_mm": 4.278540574731723,
+          "loaded_rearward_moment_g_mm": -1.986369557920539
+        },
+        {
+          "angle_degrees": 13.0,
+          "empty_rearward_moment_g_mm": 4.2161558733563425,
+          "loaded_rearward_moment_g_mm": -2.0878255581633987
+        },
+        {
+          "angle_degrees": 14.0,
+          "empty_rearward_moment_g_mm": 4.152486890059115,
+          "loaded_rearward_moment_g_mm": -2.1886455865160244
+        },
+        {
+          "angle_degrees": 15.0,
+          "empty_rearward_moment_g_mm": 4.087553019029136,
+          "loaded_rearward_moment_g_mm": -2.2887989322211064
+        },
+        {
+          "angle_degrees": 16.0,
+          "empty_rearward_moment_g_mm": 4.021374039752542,
+          "loaded_rearward_moment_g_mm": -2.3882550875993456
+        },
+        {
+          "angle_degrees": 17.0,
+          "empty_rearward_moment_g_mm": 3.953970110987518,
+          "loaded_rearward_moment_g_mm": -2.486983757342351
+        },
+        {
+          "angle_degrees": 18.0,
+          "empty_rearward_moment_g_mm": 3.885361764623716,
+          "loaded_rearward_moment_g_mm": -2.5849548677409198
+        },
+        {
+          "angle_degrees": 19.0,
+          "empty_rearward_moment_g_mm": 3.8155698994280662,
+          "loaded_rearward_moment_g_mm": -2.682138575845755
+        },
+        {
+          "angle_degrees": 20.0,
+          "empty_rearward_moment_g_mm": 3.7446157746787945,
+          "loaded_rearward_moment_g_mm": -2.778505278557927
+        },
+        {
+          "angle_degrees": 21.0,
+          "empty_rearward_moment_g_mm": 3.672521003689649,
+          "loaded_rearward_moment_g_mm": -2.874025621646263
+        },
+        {
+          "angle_degrees": 22.0,
+          "empty_rearward_moment_g_mm": 3.5993075472262688,
+          "loaded_rearward_moment_g_mm": -2.968670508688938
+        },
+        {
+          "angle_degrees": 23.0,
+          "empty_rearward_moment_g_mm": 3.5249977068167286,
+          "loaded_rearward_moment_g_mm": -3.062411109936509
+        },
+        {
+          "angle_degrees": 24.0,
+          "empty_rearward_moment_g_mm": 3.449614117958272,
+          "loaded_rearward_moment_g_mm": -3.1552188710937488
+        },
+        {
+          "angle_degrees": 25.0,
+          "empty_rearward_moment_g_mm": 3.373179743222324,
+          "loaded_rearward_moment_g_mm": -3.2470655220175626
+        },
+        {
+          "angle_degrees": 26.0,
+          "empty_rearward_moment_g_mm": 3.295717865259865,
+          "loaded_rearward_moment_g_mm": -3.3379230853283395
+        },
+        {
+          "angle_degrees": 27.0,
+          "empty_rearward_moment_g_mm": 3.2172520797093114,
+          "loaded_rearward_moment_g_mm": -3.427763884932138
+        },
+        {
+          "angle_degrees": 28.0,
+          "empty_rearward_moment_g_mm": 3.1378062880090556,
+          "loaded_rearward_moment_g_mm": -3.5165605544510936
+        },
+        {
+          "angle_degrees": 29.0,
+          "empty_rearward_moment_g_mm": 3.057404690116862,
+          "loaded_rearward_moment_g_mm": -3.604286045559476
+        },
+        {
+          "angle_degrees": 30.0,
+          "empty_rearward_moment_g_mm": 2.9760717771383147,
+          "loaded_rearward_moment_g_mm": -3.690913636222877
+        },
+        {
+          "angle_degrees": 31.0,
+          "empty_rearward_moment_g_mm": 2.8938323238665964,
+          "loaded_rearward_moment_g_mm": -3.7764169388380013
+        },
+        {
+          "angle_degrees": 32.0,
+          "empty_rearward_moment_g_mm": 2.8107113812358433,
+          "loaded_rearward_moment_g_mm": -3.8607699082705844
+        },
+        {
+          "angle_degrees": 33.0,
+          "empty_rearward_moment_g_mm": 2.726734268690395,
+          "loaded_rearward_moment_g_mm": -3.9439468497889907
+        },
+        {
+          "angle_degrees": 34.0,
+          "empty_rearward_moment_g_mm": 2.6419265664722356,
+          "loaded_rearward_moment_g_mm": -4.0259224268910785
+        },
+        {
+          "angle_degrees": 35.0,
+          "empty_rearward_moment_g_mm": 2.556314107829012,
+          "loaded_rearward_moment_g_mm": -4.106671669021949
+        },
+        {
+          "angle_degrees": 36.0,
+          "empty_rearward_moment_g_mm": 2.469922971144972,
+          "loaded_rearward_moment_g_mm": -4.186169979180214
+        },
+        {
+          "angle_degrees": 37.0,
+          "empty_rearward_moment_g_mm": 2.3827794719972406,
+          "loaded_rearward_moment_g_mm": -4.264393141410482
+        },
+        {
+          "angle_degrees": 38.0,
+          "empty_rearward_moment_g_mm": 2.2949101551398345,
+          "loaded_rearward_moment_g_mm": -4.3413173281797715
+        },
+        {
+          "angle_degrees": 39.0,
+          "empty_rearward_moment_g_mm": 2.2063417864178807,
+          "loaded_rearward_moment_g_mm": -4.4169191076356125
+        },
+        {
+          "angle_degrees": 40.0,
+          "empty_rearward_moment_g_mm": 2.1171013446144693,
+          "loaded_rearward_moment_g_mm": -4.491175450743613
+        },
+        {
+          "angle_degrees": 41.0,
+          "empty_rearward_moment_g_mm": 2.0272160132326684,
+          "loaded_rearward_moment_g_mm": -4.564063738302323
+        },
+        {
+          "angle_degrees": 42.0,
+          "empty_rearward_moment_g_mm": 1.936713172215154,
+          "loaded_rearward_moment_g_mm": -4.635561767833267
+        },
+        {
+          "angle_degrees": 43.0,
+          "empty_rearward_moment_g_mm": 1.8456203896040217,
+          "loaded_rearward_moment_g_mm": -4.705647760344034
+        },
+        {
+          "angle_degrees": 44.0,
+          "empty_rearward_moment_g_mm": 1.7539654131432902,
+          "loaded_rearward_moment_g_mm": -4.7743003669623665
+        },
+        {
+          "angle_degrees": 45.0,
+          "empty_rearward_moment_g_mm": 1.6617761618266698,
+          "loaded_rearward_moment_g_mm": -4.841498675439236
+        },
+        {
+          "angle_degrees": 46.0,
+          "empty_rearward_moment_g_mm": 1.5690807173931691,
+          "loaded_rearward_moment_g_mm": -4.9072222165189165
+        },
+        {
+          "angle_degrees": 47.0,
+          "empty_rearward_moment_g_mm": 1.4759073157731248,
+          "loaded_rearward_moment_g_mm": -4.971450970174118
+        },
+        {
+          "angle_degrees": 48.0,
+          "empty_rearward_moment_g_mm": 1.3822843384872614,
+          "loaded_rearward_moment_g_mm": -5.034165371704276
+        },
+        {
+          "angle_degrees": 49.0,
+          "empty_rearward_moment_g_mm": 1.288240304001405,
+          "loaded_rearward_moment_g_mm": -5.095346317695157
+        },
+        {
+          "angle_degrees": 50.0,
+          "empty_rearward_moment_g_mm": 1.1938038590394866,
+          "loaded_rearward_moment_g_mm": -5.154975171837941
+        },
+        {
+          "angle_degrees": 51.0,
+          "empty_rearward_moment_g_mm": 1.0990037698574664,
+          "loaded_rearward_moment_g_mm": -5.2130337706060175
+        },
+        {
+          "angle_degrees": 52.0,
+          "empty_rearward_moment_g_mm": 1.0038689134808596,
+          "loaded_rearward_moment_g_mm": -5.269504428787774
+        },
+        {
+          "angle_degrees": 53.0,
+          "empty_rearward_moment_g_mm": 0.9084282689085094,
+          "loaded_rearward_moment_g_mm": -5.324369944873687
+        },
+        {
+          "angle_degrees": 54.0,
+          "empty_rearward_moment_g_mm": 0.812710908285308,
+          "loaded_rearward_moment_g_mm": -5.377613606296061
+        },
+        {
+          "angle_degrees": 55.0,
+          "empty_rearward_moment_g_mm": 0.7167459880465357,
+          "loaded_rearward_moment_g_mm": -5.429219194519845
+        }
+      ]
+    }
+  ],
+  "passed_idealized_gravity_signs": true,
+  "limits": [
+    "Positive empty rearward moment means a restoring tendency; negative loaded-rest moment means a tipping tendency.",
+    "Solid-PLA density and ideal sphere used. No axle friction, print infill differences, impact, acceleration or measured mass.",
+    "Counterweight position, retention, triggering and empty return MUST be physically tuned and tested. This is not automatic-reset validation."
+  ]
+}

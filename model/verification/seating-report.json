@@ -1,0 +1,106 @@
+{
+  "source_sha256": {
+    "approach-bridge": "1397b13f3d3ee085bfac23affde6a29cec6c1f44f09a0db17720e5b3fd07f0fe",
+    "axle": "a00b041639289a9b915d4574bbebda5274ee2678151b41b33dec7297ad649290",
+    "balance-endclip": "63f242ed78a4deaa9ad225df64f7789e93de189b7fb41328adb81fd78be1f0c2",
+    "ballast-light": "84826e0ca938bf4a7bd6d95c209fe122a1ee6699bf36960da65842138c3f3f70",
+    "ballast": "a6310aca34057148aab01b06b451ce3a77459c37cd9544dfba25ddb215e050f7",
+    "cascade": "c63a2975a14af51350b6de57a0e46d80d62f928196fada96a9be084652a889d7",
+    "chassis": "782c0e3d46d60abf38d63d602eb8cbfcc1008531428096f3899178db305e10c8",
+    "collector-ramp": "29338b0e3e84c7cfbf61536c3214f00f83f5614b074b58391f675e618fb89766",
+    "coupon": "e265be6105a890bef7c8f1f440f2805fdf7f7aefd2930e00d385d7b93db75994",
+    "cup": "76cdf1bb0ece9cec710548494d451bc576f156b6dc0bb1d0dbbc79519eeb82a6",
+    "funnel": "870f6613ae2b46d1e27d1fb94d84ce62fc0d7393eec47e9d339027157cd0e0d1",
+    "marble": "11aac731b9a39ce7ea807f2453c7a690fb8ac7a32a010968cbf5bf7e95d8a04f",
+    "retainer": "8460b91680cfbb59647cc9239dd4f2bd01243aaa1b5ce9e514caf5b694bbf5c3",
+    "selector": "9668dbabf77a4875c96a98032fdbe0de6ca6173e54c4b2284ba298f9510b59e6"
+  },
+  "passed": true,
+  "seats": [
+    {
+      "part": "approach-bridge",
+      "nominal_seat_center_mm": [
+        28.0,
+        68.0,
+        66.20069175273157
+      ],
+      "seat_plane_gap_mm": 1.2207031261368684e-06,
+      "peg_radius_mm": 1.5,
+      "probe_radius_mm": 1.6,
+      "hole_envelope_samples": 64,
+      "minimum_probe_surface_distance_mm": 0.08545010529373204,
+      "inside_module_probes": 0,
+      "peg_tip_to_blind_cap_mm": 0.6000087019803431,
+      "passed": true
+    },
+    {
+      "part": "approach-bridge",
+      "nominal_seat_center_mm": [
+        15.386155558412046,
+        58.14498464279568,
+        64.09366687768492
+      ],
+      "seat_plane_gap_mm": 3.6048889171524934e-06,
+      "peg_radius_mm": 1.5,
+      "probe_radius_mm": 1.6,
+      "hole_envelope_samples": 64,
+      "minimum_probe_surface_distance_mm": 0.08543836959532392,
+      "inside_module_probes": 0,
+      "peg_tip_to_blind_cap_mm": 0.6000332260748422,
+      "passed": true
+    },
+    {
+      "part": "approach-bridge",
+      "nominal_seat_center_mm": [
+        22.7124236400146,
+        43.12390905064619,
+        61.91448223666916
+      ],
+      "seat_plane_gap_mm": -1.1634826648787566e-06,
+      "peg_radius_mm": 1.5,
+      "probe_radius_mm": 1.6,
+      "hole_envelope_samples": 64,
+      "minimum_probe_surface_distance_mm": 0.08542208318226016,
+      "inside_module_probes": 0,
+      "peg_tip_to_blind_cap_mm": 0.6000176946662918,
+      "passed": true
+    },
+    {
+      "part": "collector-ramp",
+      "nominal_seat_center_mm": [
+        118.5,
+        29.0,
+        7.534777276536396
+      ],
+      "seat_plane_gap_mm": 0.0,
+      "peg_radius_mm": 1.0,
+      "probe_radius_mm": 1.1,
+      "hole_envelope_samples": 64,
+      "minimum_probe_surface_distance_mm": 0.08971709170875095,
+      "inside_module_probes": 0,
+      "peg_tip_to_blind_cap_mm": 0.600022680738995,
+      "passed": true
+    },
+    {
+      "part": "collector-ramp",
+      "nominal_seat_center_mm": [
+        92.15,
+        16.0,
+        5.189696117668943
+      ],
+      "seat_plane_gap_mm": -1.1920928955078125e-07,
+      "peg_radius_mm": 1.0,
+      "probe_radius_mm": 1.1,
+      "hole_envelope_samples": 64,
+      "minimum_probe_surface_distance_mm": 0.08971789849947037,
+      "inside_module_probes": 0,
+      "peg_tip_to_blind_cap_mm": 0.6000039136115749,
+      "passed": true
+    }
+  ],
+  "limits": [
+    "Actual triangle seat planes and geometric peg-hole envelope probes, not a manufacturing or retention test.",
+    "The 0.1 mm expanded peg probes are analysis points; actual printing clearance and fit require the coupon.",
+    "Shared seat-plane discrepancies below 0.0002 mm are export precision; no intentional mechanism material is removed."
+  ]
+}

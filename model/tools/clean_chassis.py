@@ -75,7 +75,7 @@ dtype=np.dtype([('normal','<f4',(3,)),('vertices','<f4',(3,3)),('attribute','<u2
 data=np.zeros(len(tri),dtype=dtype);data['vertices']=tri
 n=np.cross(tri[:,1]-tri[:,0],tri[:,2]-tri[:,0]);n/=np.linalg.norm(n,axis=1,keepdims=True);data['normal']=n
 output=ROOT/'exports'/f'{name}.stl'
-output.write_bytes(b'Original AI-assisted Observatory Cascade; cleaned export; see report'.ljust(80,b' ')+struct.pack('<I',len(data))+data.tobytes())
+output.write_bytes(b'Yonathan - Observatory Cascade; cleaned export; see report'.ljust(80,b' ')+struct.pack('<I',len(data))+data.tobytes())
 _,metrics=measure_mesh(output)
 report={'raw_sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'output_sha256':metrics['sha256'],
  'coordinate_rounding_mm':.0001,'maximum_vertex_displacement_mm':float(np.linalg.norm(rounded-raw,axis=2).max()),

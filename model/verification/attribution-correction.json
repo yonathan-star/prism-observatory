@@ -1,0 +1,42 @@
+{
+  "design_credit": "Designed and modeled by Yonathan.",
+  "basis": "Owner clarification: original design by Yonathan; earlier file attribution was incorrect.",
+  "geometry_changed": false,
+  "stl_header_corrections": [
+    {
+      "file": "model/verification/assembly-A-view-only.stl",
+      "before_sha256": "7890ac5b5b577341711bf375d35873f1834c334c8260f71e8901ff34126d8756",
+      "after_sha256": "ed0c962cbd27d6db3289a581da3b377ba1133fdcc6252a4bcc3588d922e78f3f",
+      "triangle_payload_sha256": "54fd196f3f37d9e7294230e1798f6ccc56ab7ad766dbac4aff86c956aff40b1e",
+      "triangle_payload_unchanged": true
+    },
+    {
+      "file": "model/exports/chassis.stl",
+      "before_sha256": "782c0e3d46d60abf38d63d602eb8cbfcc1008531428096f3899178db305e10c8",
+      "after_sha256": "97f320e6dd80bb42a591f55439c9cc6e231892cb6b43f258ef24742eb1066fe7",
+      "triangle_payload_sha256": "c44f30809ae9115471336ff025343b05c2fa766f307c6c454cd5fc88088450a3",
+      "triangle_payload_unchanged": true
+    },
+    {
+      "file": "model/exports/approach-bridge.stl",
+      "before_sha256": "1397b13f3d3ee085bfac23affde6a29cec6c1f44f09a0db17720e5b3fd07f0fe",
+      "after_sha256": "a2f761750493ee8c0f36c4c367a5c81cda877e0cb7990243af4b4f44847d0426",
+      "triangle_payload_sha256": "c1404e38d2c65dfe798ba222fc7fe539858680d546f9b6ea6e823fc6a3db33fb",
+      "triangle_payload_unchanged": true
+    },
+    {
+      "file": "model/exports/collector-ramp.stl",
+      "before_sha256": "29338b0e3e84c7cfbf61536c3214f00f83f5614b074b58391f675e618fb89766",
+      "after_sha256": "887eebca14806e9b9b701dc3954dd4a7de4ff8221a98556278eba5c5033b577a",
+      "triangle_payload_sha256": "a390695fea392939e3a0c55563a0f40fafdaa3bcc2f8bcf28c147d0c8f86d379",
+      "triangle_payload_unchanged": true
+    },
+    {
+      "file": "design-history/03-observatory-cascade/exports/the-last-observatory.stl",
+      "before_sha256": "360e1ee85db004fcfcf02c1c7d780d4e56f651ed61d8fddedae988ad2c4c17ae",
+      "after_sha256": "fcfc27dfdd19bee583b2bf8cfb7f110f25b2c4c960b94cf973af89362607faa3",
+      "triangle_payload_sha256": "80840fb952d1002b5634c63bb31213b5eb15824938a8bbe981f51fb2c4a476b4",
+      "triangle_payload_unchanged": true
+    }
+  ]
+}

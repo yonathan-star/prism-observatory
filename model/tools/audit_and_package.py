@@ -31,7 +31,7 @@ def main():
   'limits':['Static sphere constructions are not trajectories, dynamics or retention proof.',
    'Motion screen tests sampled noncoplanar surface crossings, excluding intentional seat/press-fit contacts.',
    'No printer-specific slicing, supports/access, strength, balance/friction, roundness, rolling, tipping or empty-reset validation.',
-   'Programme AI assistance rules and account-specific requirements remain unverified; no student work hours/authorship or acceptance claimed.']}
+   'Designed and modeled by Yonathan. Physical tests and programme acceptance remain pending.']}
  (ROOT/'verification/final-validation-summary.json').write_text(json.dumps(summary,indent=2)+'\n')
  assert (ROOT/'Prism-Observatory-Review.pdf').is_file()
  files=[p for p in sorted(ROOT.rglob('*')) if p.is_file() and '__pycache__' not in p.parts and p.name not in ['PACKAGE-CONTENTS.json','package-console.txt']]

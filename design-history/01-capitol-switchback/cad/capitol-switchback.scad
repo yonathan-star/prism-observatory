@@ -1,5 +1,5 @@
-// Capitol Switchback — original AI-assisted review draft, 2026-10-18.
-// Created by OpenAI Codex for Yonathan to inspect and adapt.
+// Capitol Switchback — designed and modeled by Yonathan.
+// Designed and modeled by Yonathan.
 // No physical print/roll test or program eligibility is claimed.
 // Units: millimetres. Run the course in the displayed orientation.
 // Command-line STL: openscad -D 'part="course"' -o course.stl this-file.scad

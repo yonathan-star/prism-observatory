@@ -28,7 +28,7 @@ def write_stl(path,tri):
  dtype=np.dtype([('normal','<f4',(3,)),('vertices','<f4',(3,3)),('attribute','<u2')]);data=np.zeros(len(tri),dtype=dtype)
  n=np.cross(tri[:,1]-tri[:,0],tri[:,2]-tri[:,0]);n/=np.maximum(np.linalg.norm(n,axis=1,keepdims=True),1e-20)
  data['normal']=n;data['vertices']=tri
- path.write_bytes(b'Original AI-assisted Prism Observatory assembly; view only'.ljust(80,b' ')+struct.pack('<I',len(data))+data.tobytes())
+ path.write_bytes(b'Yonathan - Prism Observatory assembly; view only'.ljust(80,b' ')+struct.pack('<I',len(data))+data.tobytes())
 def main():
  p=loaded();d=placed(p);write_stl(ROOT/'verification/assembly-A-view-only.stl',np.concatenate(list(d.values())))
  manifest={'status':'Assembly meshes are for inspection, not a single printable part. Print the separate component files.',

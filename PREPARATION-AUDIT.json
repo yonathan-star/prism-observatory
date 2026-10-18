@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "issues": [],
+  "checked_markdown_targets": 81,
+  "unique_still_images_OCR_checked": 24,
+  "STL_triangle_payloads_identical_to_pre_correction": true,
+  "report_hashes_match_delivered_exports": true,
+  "physical_tests_performed": false,
+  "remaining": [
+    "Four owner journal accounts need at least 200 characters each.",
+    "Owner voiceovers and reel posting remain.",
+    "Idea reel unlocks journals; final Submit form remains gated."
+  ]
+}

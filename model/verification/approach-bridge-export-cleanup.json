@@ -1,6 +1,6 @@
 {
   "raw_sha256": "9c8cf59a295d9f877648ed5a69b7f0354bab806d79c4c1690b4b953c31795dfa",
-  "output_sha256": "1397b13f3d3ee085bfac23affde6a29cec6c1f44f09a0db17720e5b3fd07f0fe",
+  "output_sha256": "a2f761750493ee8c0f36c4c367a5c81cda877e0cb7990243af4b4f44847d0426",
   "coordinate_rounding_mm": 0.0001,
   "maximum_vertex_displacement_mm": 8.408262422109243e-05,
   "collapsed_zero_area_triangles": 168,
@@ -10,7 +10,7 @@
   "removed_detached_chips": [],
   "final_mesh": {
     "file": "exports/approach-bridge.stl",
-    "sha256": "1397b13f3d3ee085bfac23affde6a29cec6c1f44f09a0db17720e5b3fd07f0fe",
+    "sha256": "a2f761750493ee8c0f36c4c367a5c81cda877e0cb7990243af4b4f44847d0426",
     "triangles": 4992,
     "vertices": 2498,
     "edges": 7488,

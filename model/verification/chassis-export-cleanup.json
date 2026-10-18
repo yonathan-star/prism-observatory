@@ -1,6 +1,6 @@
 {
   "raw_sha256": "96ae958f9b8dc1c822787daa120899cc7b45bdc2ec8a479751897d74985f111d",
-  "output_sha256": "782c0e3d46d60abf38d63d602eb8cbfcc1008531428096f3899178db305e10c8",
+  "output_sha256": "97f320e6dd80bb42a591f55439c9cc6e231892cb6b43f258ef24742eb1066fe7",
   "coordinate_rounding_mm": 0.0001,
   "maximum_vertex_displacement_mm": 8.475910460257391e-05,
   "collapsed_zero_area_triangles": 651,
@@ -10,7 +10,7 @@
   "removed_detached_chips": [],
   "final_mesh": {
     "file": "exports/chassis.stl",
-    "sha256": "782c0e3d46d60abf38d63d602eb8cbfcc1008531428096f3899178db305e10c8",
+    "sha256": "97f320e6dd80bb42a591f55439c9cc6e231892cb6b43f258ef24742eb1066fe7",
     "triangles": 63376,
     "vertices": 31465,
     "edges": 95064,

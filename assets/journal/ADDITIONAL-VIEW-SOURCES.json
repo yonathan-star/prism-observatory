@@ -54,7 +54,7 @@
     "file": "assets/journal/day-2/06-cascade-rear-view.png",
     "label": "Rear view of the saved Cascade design",
     "source_mesh": "design-history/03-observatory-cascade/exports/the-last-observatory.stl",
-    "source_mesh_sha256": "360e1ee85db004fcfcf02c1c7d780d4e56f651ed61d8fddedae988ad2c4c17ae",
+    "source_mesh_sha256": "fcfc27dfdd19bee583b2bf8cfb7f110f25b2c4c960b94cf973af89362607faa3",
     "origin": "Actual saved STL geometry rendered on October 18, 2026; retrospective reference view, not a contemporaneous session capture",
     "image_generation_used": false,
     "source_geometry_modified": false

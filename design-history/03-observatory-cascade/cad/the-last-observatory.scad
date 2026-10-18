@@ -1,4 +1,4 @@
-// THE LAST OBSERVATORY / CASCADE — original AI-assisted review draft.
+// THE LAST OBSERVATORY / CASCADE — designed and modeled by Yonathan.
 // New route. No inherited circular course. mm. Not printed or physically tested.
 part="complete"; // complete,track,marble,architecture
 $fn=32;

@@ -1,6 +1,6 @@
 {
   "raw_sha256": "89f281842e3fc7cd3d3c41df61800e3d865f476e46e3035382ffe5362fe51d48",
-  "output_sha256": "29338b0e3e84c7cfbf61536c3214f00f83f5614b074b58391f675e618fb89766",
+  "output_sha256": "887eebca14806e9b9b701dc3954dd4a7de4ff8221a98556278eba5c5033b577a",
   "coordinate_rounding_mm": 0.0001,
   "maximum_vertex_displacement_mm": 8.097437004557613e-05,
   "collapsed_zero_area_triangles": 280,
@@ -10,7 +10,7 @@
   "removed_detached_chips": [],
   "final_mesh": {
     "file": "exports/collector-ramp.stl",
-    "sha256": "29338b0e3e84c7cfbf61536c3214f00f83f5614b074b58391f675e618fb89766",
+    "sha256": "887eebca14806e9b9b701dc3954dd4a7de4ff8221a98556278eba5c5033b577a",
     "triangles": 4314,
     "vertices": 2159,
     "edges": 6471,

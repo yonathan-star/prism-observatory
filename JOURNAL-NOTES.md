@@ -124,7 +124,7 @@ Additional-view source records: [mesh paths, hashes and capture timing](assets/j
 
 ## Image presentation
 
-The four uploaded design images are displayed as model-only rectangular crops. Their retained pixels are unchanged. The original labeled files and source credits are preserved alongside the crops. [Crop coordinates and verification](assets/journal/CROP-RECORD.json).
+The four uploaded design images are displayed as model-only rectangular crops. Their retained pixels are unchanged. The uploaded originals are retained in a local input backup; the submission pack uses only the exact model crops. [Crop coordinates and verification](assets/journal/CROP-RECORD.json).
 
 ## Available final-design images
 

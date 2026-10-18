@@ -1,6 +1,5 @@
 [
   {
-    "source": "assets/journal/day-1/1-46144.jpg",
     "presentation_crop": "assets/journal/day-1/1-46144-model-only.png",
     "crop_rectangle": {
       "left": 0,
@@ -10,10 +9,10 @@
     },
     "retained_decoded_pixels_identical": true,
     "model_content_redrawn": false,
-    "original_preserved": true
+    "original_preserved": "Local input backup, outside submission pack",
+    "original_source_filename": "1-46144.jpg"
   },
   {
-    "source": "assets/journal/day-2/2-46145.jpg",
     "presentation_crop": "assets/journal/day-2/2-46145-model-only.png",
     "crop_rectangle": {
       "left": 0,
@@ -23,10 +22,10 @@
     },
     "retained_decoded_pixels_identical": true,
     "model_content_redrawn": false,
-    "original_preserved": true
+    "original_preserved": "Local input backup, outside submission pack",
+    "original_source_filename": "2-46145.jpg"
   },
   {
-    "source": "assets/journal/day-2/3-46146.jpg",
     "presentation_crop": "assets/journal/day-2/3-46146-model-only.png",
     "crop_rectangle": {
       "left": 0,
@@ -36,10 +35,10 @@
     },
     "retained_decoded_pixels_identical": true,
     "model_content_redrawn": false,
-    "original_preserved": true
+    "original_preserved": "Local input backup, outside submission pack",
+    "original_source_filename": "3-46146.jpg"
   },
   {
-    "source": "assets/journal/day-2/4-46147.jpg",
     "presentation_crop": "assets/journal/day-2/4-46147-model-only.png",
     "crop_rectangle": {
       "left": 0,
@@ -49,6 +48,7 @@
     },
     "retained_decoded_pixels_identical": true,
     "model_content_redrawn": false,
-    "original_preserved": true
+    "original_preserved": "Local input backup, outside submission pack",
+    "original_source_filename": "4-46147.jpg"
   }
 ]

@@ -76,7 +76,7 @@ The validation summary records hashes for the delivered revision. Changes to the
 | [Fit coupon](model/exports/coupon.stl) | 1 initial test piece | Printer-specific fit checks |
 | [Light counterweight carrier](model/exports/ballast-light.stl) | Optional replacement | Alternative for balance tuning |
 
-Install one counterweight carrier, not both. These quantities describe the assembly and its test/alternative parts. The baseline purchased-material estimate is in [BOM.md](BOM.md). Slicer material consumption, shipping/tax totals, and print time still require confirmation.
+Install one counterweight carrier, not both. These quantities describe the assembly and its test/alternative parts. The baseline purchased-material estimate is in [BOM.md](BOM.md). The saved checkout quoted $22.98 total; slicer material consumption and print time still require confirmation.
 
 ![Individual parts arranged for inspection](assets/print-parts.png)
 
@@ -163,6 +163,6 @@ See [BOM.md](BOM.md) for the vendor-priced baseline and the limits of that quote
 
 [Reported work hours](WORK-LOG.md) records the project owner’s retrospective estimates: five hours on each of October 12–15, 2026, totaling 20 hours. It is a timing record, not a completed personal journal.
 
-The owner’s four-day account is transcribed in [JOURNAL-NOTES.md](JOURNAL-NOTES.md); it still needs the detail and images required for the site entries.
+The owner’s four-day account is transcribed in [JOURNAL-NOTES.md](JOURNAL-NOTES.md); it has five linked reference views per day and still needs your own additional written detail for the site entries.
 
 Preparation handoff: [session review files](journal-review/), [current submission status](SUBMISSION-STATUS.txt), and [checkout evidence](BOM.md#checkout-confirmation--october-18-2026).

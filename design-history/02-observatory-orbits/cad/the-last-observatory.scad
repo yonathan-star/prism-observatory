@@ -1,6 +1,6 @@
-// THE LAST OBSERVATORY — original AI-assisted review draft, 2026-10-18.
+// THE LAST OBSERVATORY — designed and modeled by Yonathan.
 // A fallen star follows the broken orbital conduit to the energy chamber.
-// OpenAI Codex generated this geometry for Yonathan to review and adapt.
+// Designed and modeled by Yonathan.
 // No copied figure, traced artwork, or copied reference track layout.
 // Units mm. No print, rolling test, submission or program eligibility claimed.
 

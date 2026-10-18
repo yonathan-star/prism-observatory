@@ -1,27 +1,31 @@
 [
   {
     "day": "day-1",
-    "file": "assets/journal/day-1/1-46144.jpg",
+    "file": "assets/journal/day-1/1-46144-model-only.png",
     "origin": "User attachment; assigned to this day by user",
-    "bytes_unchanged": true
+    "original_source_filename": "1-46144.jpg",
+    "retained_decoded_pixels_identical": true
   },
   {
     "day": "day-2",
-    "file": "assets/journal/day-2/2-46145.jpg",
+    "file": "assets/journal/day-2/2-46145-model-only.png",
     "origin": "User attachment; assigned to this day by user",
-    "bytes_unchanged": true
+    "original_source_filename": "2-46145.jpg",
+    "retained_decoded_pixels_identical": true
   },
   {
     "day": "day-2",
-    "file": "assets/journal/day-2/3-46146.jpg",
+    "file": "assets/journal/day-2/3-46146-model-only.png",
     "origin": "User attachment; assigned to this day by user",
-    "bytes_unchanged": true
+    "original_source_filename": "3-46146.jpg",
+    "retained_decoded_pixels_identical": true
   },
   {
     "day": "day-2",
-    "file": "assets/journal/day-2/4-46147.jpg",
+    "file": "assets/journal/day-2/4-46147-model-only.png",
     "origin": "User attachment; assigned to this day by user",
-    "bytes_unchanged": true
+    "original_source_filename": "4-46147.jpg",
+    "retained_decoded_pixels_identical": true
   },
   {
     "day": "day-3",

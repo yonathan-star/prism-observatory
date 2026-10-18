@@ -1,0 +1,86 @@
+[
+  {
+    "day": "day-1",
+    "file": "assets/journal/day-1/1-46144.jpg",
+    "origin": "User attachment; assigned to this day by user",
+    "bytes_unchanged": true
+  },
+  {
+    "day": "day-2",
+    "file": "assets/journal/day-2/2-46145.jpg",
+    "origin": "User attachment; assigned to this day by user",
+    "bytes_unchanged": true
+  },
+  {
+    "day": "day-2",
+    "file": "assets/journal/day-2/3-46146.jpg",
+    "origin": "User attachment; assigned to this day by user",
+    "bytes_unchanged": true
+  },
+  {
+    "day": "day-2",
+    "file": "assets/journal/day-2/4-46147.jpg",
+    "origin": "User attachment; assigned to this day by user",
+    "bytes_unchanged": true
+  },
+  {
+    "day": "day-3",
+    "file": "assets/journal/day-3/01-01-full-model-orbit-0000.png",
+    "label": "Final model overview",
+    "origin": "Frame extracted October 18 from supplied final CAD animation; retrospective final-model reference"
+  },
+  {
+    "day": "day-3",
+    "file": "assets/journal/day-3/02-02-manual-selector-0060.png",
+    "label": "Final manual selector",
+    "origin": "Frame extracted October 18 from supplied final CAD animation; retrospective final-model reference"
+  },
+  {
+    "day": "day-3",
+    "file": "assets/journal/day-3/03-03-funnel-0060.png",
+    "label": "Final funnel",
+    "origin": "Frame extracted October 18 from supplied final CAD animation; retrospective final-model reference"
+  },
+  {
+    "day": "day-3",
+    "file": "assets/journal/day-3/04-04-cup-and-adjustment-0084.png",
+    "label": "Final tipping cup",
+    "origin": "Frame extracted October 18 from supplied final CAD animation; retrospective final-model reference"
+  },
+  {
+    "day": "day-3",
+    "file": "assets/journal/day-3/05-05-shared-drop-tower-0036.png",
+    "label": "Final cascade and collector",
+    "origin": "Frame extracted October 18 from supplied final CAD animation; retrospective final-model reference"
+  },
+  {
+    "day": "day-4",
+    "file": "assets/journal/day-4/01-full-assembly-clay.png",
+    "label": "Final model in clay view",
+    "origin": "Supplied final-model render; retrospective final-design/submission reference"
+  },
+  {
+    "day": "day-4",
+    "file": "assets/journal/day-4/02-rear-assembly.png",
+    "label": "Final rear assembly",
+    "origin": "Supplied final-model render; retrospective final-design/submission reference"
+  },
+  {
+    "day": "day-4",
+    "file": "assets/journal/day-4/03-top-plan.png",
+    "label": "Final route plan",
+    "origin": "Supplied final-model render; retrospective final-design/submission reference"
+  },
+  {
+    "day": "day-4",
+    "file": "assets/journal/day-4/04-mechanism-details.png",
+    "label": "Final mechanism details",
+    "origin": "Supplied final-model render; retrospective final-design/submission reference"
+  },
+  {
+    "day": "day-4",
+    "file": "assets/journal/day-4/05-print-parts.png",
+    "label": "Final printable parts",
+    "origin": "Supplied final-model render; retrospective final-design/submission reference"
+  }
+]

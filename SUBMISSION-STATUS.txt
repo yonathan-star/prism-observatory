@@ -9,6 +9,8 @@ Prepared:
 - Vendor-priced materials plan, exact live checkout quote of $22.98, and an order-summary screenshot excluding address/payment data. No order placed.
 - Separate 31-second idea and 45-second current-progress silent videos with matched scripts. Closing narration is available if required by the Submit form.
 
+GitHub automatic syncing is connected; the synced JOURNAL.md and BOM.csv are managed by HalfLife. Detailed cost evidence remains in MATERIALS.md.
+
 Still requires the owner:
 - Review and post the four prepared journal entries with their supporting images. The new renders do not independently prove past hours or capture dates.
 - Record and review your narration. No narration or videos have been posted.

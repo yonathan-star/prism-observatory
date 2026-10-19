@@ -76,7 +76,7 @@ The validation summary records hashes for the delivered revision. Changes to the
 | [Fit coupon](model/exports/coupon.stl) | 1 initial test piece | Printer-specific fit checks |
 | [Light counterweight carrier](model/exports/ballast-light.stl) | Optional replacement | Alternative for balance tuning |
 
-Install one counterweight carrier, not both. These quantities describe the assembly and its test/alternative parts. The baseline purchased-material estimate is in [BOM.md](BOM.md). The saved checkout quoted $22.98 total; slicer material consumption and print time still require confirmation.
+Install one counterweight carrier, not both. These quantities describe the assembly and its test/alternative parts. The baseline purchased-material estimate is in [MATERIALS.md](MATERIALS.md). The saved checkout quoted $22.98 total; slicer material consumption and print time still require confirmation.
 
 ![Individual parts arranged for inspection](assets/print-parts.png)
 
@@ -157,7 +157,7 @@ Technical dimensions, part quantities, assembly details, and validation counts i
 
 ## Purchased bill of materials
 
-See [BOM.md](BOM.md) for the vendor-priced baseline and the limits of that quote. The single-color baseline uses one spool of PLA to print the listed parts; rendered colors do not require multiple purchased colors. No parts have been ordered.
+See [MATERIALS.md](MATERIALS.md) for the vendor-priced baseline and the limits of that quote. The single-color baseline uses one spool of PLA to print the listed parts; rendered colors do not require multiple purchased colors. No parts have been ordered.
 
 ## Work-hour record
 
@@ -165,4 +165,4 @@ See [BOM.md](BOM.md) for the vendor-priced baseline and the limits of that quote
 
 The owner’s four-day account is transcribed in [JOURNAL-NOTES.md](JOURNAL-NOTES.md); it includes the owner’s expanded entries, each over 200 characters, and five linked reference views per day. The entries have not yet been posted to HalfLife.
 
-Preparation handoff: [session review files](journal-review/), [current submission status](SUBMISSION-STATUS.txt), and [checkout evidence](BOM.md#checkout-confirmation--october-18-2026).
+Preparation handoff: [session review files](journal-review/), [current submission status](SUBMISSION-STATUS.txt), and [checkout evidence](MATERIALS.md#checkout-confirmation--october-18-2026).

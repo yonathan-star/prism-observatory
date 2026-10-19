@@ -11,33 +11,33 @@
       "day": "01-monday",
       "reported_hours": 5,
       "linked_images": 5,
-      "copyedited_note_characters": 49,
-      "owner_writing_minimum_met": false,
-      "posted_to_site": false
+      "owner_writing_minimum_met": true,
+      "posted_to_site": false,
+      "owner_supplied_entry_characters": 360
     },
     {
       "day": "02-tuesday",
       "reported_hours": 5,
       "linked_images": 5,
-      "copyedited_note_characters": 49,
-      "owner_writing_minimum_met": false,
-      "posted_to_site": false
+      "owner_writing_minimum_met": true,
+      "posted_to_site": false,
+      "owner_supplied_entry_characters": 388
     },
     {
       "day": "03-wednesday",
       "reported_hours": 5,
       "linked_images": 5,
-      "copyedited_note_characters": 116,
-      "owner_writing_minimum_met": false,
-      "posted_to_site": false
+      "owner_writing_minimum_met": true,
+      "posted_to_site": false,
+      "owner_supplied_entry_characters": 424
     },
     {
       "day": "04-thursday",
       "reported_hours": 5,
       "linked_images": 5,
-      "copyedited_note_characters": 91,
-      "owner_writing_minimum_met": false,
-      "posted_to_site": false
+      "owner_writing_minimum_met": true,
+      "posted_to_site": false,
+      "owner_supplied_entry_characters": 441
     }
   ],
   "all_document_links_resolve": true,

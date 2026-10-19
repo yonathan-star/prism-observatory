@@ -4,13 +4,13 @@ Project owner’s own account, supplied October 18, 2026. Session descriptions b
 
 **Reported total: 20 active hours.**
 
-The images are organized according to the owner’s day assignments. Wednesday and Thursday use final-model references added retrospectively. Each site entry still needs at least 200 characters of the owner’s writing. Each day now has five linked images. Six added views were rendered on October 18 from the matching saved early-design STL files. These are marked retrospective reference views and retain source-mesh hashes. Additional views of the final model do not establish the earlier session dates or hours.
+The images are organized according to the owner’s day assignments. Wednesday and Thursday use final-model references added retrospectively. The owner supplied expanded entries on October 18; all four exceed the 200-character writing minimum. Each day now has five linked images. Six added views were rendered on October 18 from the matching saved early-design STL files. These are marked retrospective reference views and retain source-mesh hashes. Additional views of the final model do not establish the earlier session dates or hours.
 
 ## Monday, 2026-10-12 — Design planning
 
 Reported active time: **5 hours**.
 
-Basically I worked on the design the first day, what I wanted from it.
+I worked on planning the marble machine and deciding what I wanted the project to do. My starting concept was a compact switchback course for an 8 mm marble, with bends and supports guiding its path downward. I focused on the overall layout and how to make the route interesting while keeping the design small enough to become a manageable 3D printing project.
 
 ![Owner-assigned day 1 image: Capitol Switchback concept, 140 × 140 × 59 mm, with an 8 mm marble and 9.6 mm channel.](assets/journal/day-1/1-46144-model-only.png)
 
@@ -38,7 +38,7 @@ Detail view of the saved course bend and supports
 
 Reported active time: **5 hours**.
 
-Second day I started 3d modeling and built the basic design.
+I started 3D modeling and developed the basic structure of the marble run. I explored the observatory theme, including a version with two descending orbits and another with a cascade layout. I also worked with a view showing just the channels so I could focus on the marble’s route separately from the surrounding architecture. This gave me a clearer starting point for the next revision.
 
 ![Owner-assigned day 2 design: The Last Observatory, with two descending orbits.](assets/journal/day-2/2-46145-model-only.png)
 
@@ -66,7 +66,7 @@ Rear view of the saved Cascade design
 
 Reported active time: **5 hours**.
 
-3rd day I realized I didn't like what I made and made it more complicated with more things going on.
+I realized I wasn’t happy with the earlier design and revised it to include more variety and more things happening along the marble’s path. The revised design developed into two selectable routes: a funnel and a tipping cup with an adjustable counterweight. These routes join before a shared cascade and collector. I wanted the model to have several distinct features while still feeling like one observatory-themed machine.
 
 **Retrospective final-model references:** these show the final geometry and were added after the dated session.
 
@@ -94,9 +94,7 @@ Final cascade and collector
 
 Reported active time: **5 hours**.
 
-fourth day I finalized the design
-
-And finished the stuff needed for the full submission.
+I finalized the CAD design and prepared the project materials for submission. This included organizing the editable model, individual printable parts, assembly documentation, project images, and materials list. The final design includes detachable track sections to help with assembly and access. I also documented the remaining work: physical printing, fit checks, and testing whether the marble travels reliably and the tipping cup resets.
 
 **Retrospective final-model references:** these show the final geometry and were added after the dated session.
 

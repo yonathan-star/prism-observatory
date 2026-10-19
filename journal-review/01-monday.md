@@ -4,15 +4,11 @@ Status: review notes; not posted to HalfLife.
 
 **Reported active time:** 5 hours (retrospective estimate).
 
-## Light grammar edit of your note
+## Journal entry
 
-I worked on the design and what I wanted from it.
+I worked on planning the marble machine and deciding what I wanted the project to do. My starting concept was a compact switchback course for an 8 mm marble, with bends and supports guiding its path downward. I focused on the overall layout and how to make the route interesting while keeping the design small enough to become a manageable 3D printing project.
 
-## Your remaining writing
-
-The note above has 49 characters. The site requires at least 200 characters of your own account. Add specific facts you remember; do not copy the question below into the journal.
-
-What did you want the course to do, and why did you choose the initial layout?
+**Writing length:** 360 characters; meets the 200-character minimum. Wording supplied by the owner.
 
 ## Images
 

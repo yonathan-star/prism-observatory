@@ -4,15 +4,11 @@ Status: review notes; not posted to HalfLife.
 
 **Reported active time:** 5 hours (retrospective estimate).
 
-## Light grammar edit of your note
+## Journal entry
 
-I started 3D modeling and built the basic design.
+I started 3D modeling and developed the basic structure of the marble run. I explored the observatory theme, including a version with two descending orbits and another with a cascade layout. I also worked with a view showing just the channels so I could focus on the marble’s route separately from the surrounding architecture. This gave me a clearer starting point for the next revision.
 
-## Your remaining writing
-
-The note above has 49 characters. The site requires at least 200 characters of your own account. Add specific facts you remember; do not copy the question below into the journal.
-
-Which parts did you model first, and what did the basic design include?
+**Writing length:** 388 characters; meets the 200-character minimum. Wording supplied by the owner.
 
 ## Images
 

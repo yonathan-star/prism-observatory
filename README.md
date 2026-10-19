@@ -163,6 +163,6 @@ See [BOM.md](BOM.md) for the vendor-priced baseline and the limits of that quote
 
 [Reported work hours](WORK-LOG.md) records the project owner’s retrospective estimates: five hours on each of October 12–15, 2026, totaling 20 hours. It is a timing record, not a completed personal journal.
 
-The owner’s four-day account is transcribed in [JOURNAL-NOTES.md](JOURNAL-NOTES.md); it has five linked reference views per day and still needs your own additional written detail for the site entries.
+The owner’s four-day account is transcribed in [JOURNAL-NOTES.md](JOURNAL-NOTES.md); it includes the owner’s expanded entries, each over 200 characters, and five linked reference views per day. The entries have not yet been posted to HalfLife.
 
 Preparation handoff: [session review files](journal-review/), [current submission status](SUBMISSION-STATUS.txt), and [checkout evidence](BOM.md#checkout-confirmation--october-18-2026).

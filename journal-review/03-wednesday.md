@@ -4,15 +4,11 @@ Status: review notes; not posted to HalfLife.
 
 **Reported active time:** 5 hours (retrospective estimate).
 
-## Light grammar edit of your note
+## Journal entry
 
-I realized I wasn't happy with what I had made, so I revised the design to make it more complex, with more going on.
+I realized I wasn’t happy with the earlier design and revised it to include more variety and more things happening along the marble’s path. The revised design developed into two selectable routes: a funnel and a tipping cup with an adjustable counterweight. These routes join before a shared cascade and collector. I wanted the model to have several distinct features while still feeling like one observatory-themed machine.
 
-## Your remaining writing
-
-The note above has 116 characters. The site requires at least 200 characters of your own account. Add specific facts you remember; do not copy the question below into the journal.
-
-What did you dislike about the earlier version, and which specific features did you add or change?
+**Writing length:** 424 characters; meets the 200-character minimum. Wording supplied by the owner.
 
 ## Images
 

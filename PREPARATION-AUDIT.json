@@ -7,8 +7,14 @@
   "report_hashes_match_delivered_exports": true,
   "physical_tests_performed": false,
   "remaining": [
-    "Four owner journal accounts need at least 200 characters each.",
     "Owner voiceovers and reel posting remain.",
     "Idea reel unlocks journals; final Submit form remains gated."
-  ]
+  ],
+  "journal_entry_characters": [
+    360,
+    388,
+    424,
+    441
+  ],
+  "all_journal_writing_minimums_met": true
 }

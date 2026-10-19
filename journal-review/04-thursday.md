@@ -4,15 +4,11 @@ Status: review notes; not posted to HalfLife.
 
 **Reported active time:** 5 hours (retrospective estimate).
 
-## Light grammar edit of your note
+## Journal entry
 
-I finalized the design and finished preparing the materials needed for the full submission.
+I finalized the CAD design and prepared the project materials for submission. This included organizing the editable model, individual printable parts, assembly documentation, project images, and materials list. The final design includes detachable track sections to help with assembly and access. I also documented the remaining work: physical printing, fit checks, and testing whether the marble travels reliably and the tipping cup resets.
 
-## Your remaining writing
-
-The note above has 91 characters. The site requires at least 200 characters of your own account. Add specific facts you remember; do not copy the question below into the journal.
-
-What did you finish, and which actual files, screenshots, exports or checks did you prepare?
+**Writing length:** 441 characters; meets the 200-character minimum. Wording supplied by the owner.
 
 ## Images
 
